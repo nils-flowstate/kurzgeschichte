@@ -1,0 +1,6618 @@
+{
+ "meta": {
+  "title": "Gefangen im Gefüge der Zeit",
+  "author": "",
+  "duration": 480.34,
+  "version": 1
+ },
+ "assets": {
+  "hdri": {
+   "exterior": null,
+   "interior": null
+  }
+ },
+ "storyClock": [
+  {
+   "t": 0,
+   "clock": "10:24:20"
+  },
+  {
+   "t": 27.75,
+   "clock": "10:25:30"
+  },
+  {
+   "t": 83.18,
+   "clock": "10:26:40"
+  },
+  {
+   "t": 112.66,
+   "clock": "10:27:05"
+  },
+  {
+   "t": 187.6,
+   "clock": "10:28:00"
+  },
+  {
+   "t": 209.03,
+   "clock": "10:29:00"
+  },
+  {
+   "t": 262.9,
+   "clock": "10:29:56"
+  },
+  {
+   "t": 272.24,
+   "clock": "10:30:00"
+  },
+  {
+   "t": 306.27,
+   "clock": "10:30:40"
+  },
+  {
+   "t": 310.27,
+   "clock": "10:31:30"
+  },
+  {
+   "t": 348.9,
+   "clock": "10:32:20"
+  },
+  {
+   "t": 396.05,
+   "clock": "10:33:10"
+  },
+  {
+   "t": 439.9,
+   "clock": "10:34:00"
+  },
+  {
+   "t": 480.34,
+   "clock": "10:34:55"
+  }
+ ],
+ "chapters": [
+  {
+   "id": "zu-spaet",
+   "t": 0,
+   "title": "Zu spät",
+   "summary": "Keuchend um den letzten Block – vor dem Bürogebäude."
+  },
+  {
+   "id": "der-brief",
+   "t": 17.2,
+   "title": "Der Brief",
+   "summary": "Ein Auto, ein Brief mit meinem Namen – ohne Absender."
+  },
+  {
+   "id": "die-show",
+   "t": 83.18,
+   "title": "Die Show",
+   "summary": "Die Frau im roten Mantel. Der Husky. Es passiert genau so."
+  },
+  {
+   "id": "aufzug",
+   "t": 112.66,
+   "title": "Aufzug",
+   "summary": "Drehkreuz, Empfang, Warten – im Aufzug die Schnürsenkel."
+  },
+  {
+   "id": "der-auftrag",
+   "t": 145.26,
+   "title": "Der Auftrag",
+   "summary": "8. Stock, der tote Winkel links vom Aufzug. Der Brief liest sich weiter."
+  },
+  {
+   "id": "rebecca-robert",
+   "t": 187.8,
+   "title": "Rebecca & Robert",
+   "summary": "Der übliche Morgengruß – und ein Papierstapel zur falschen Zeit."
+  },
+  {
+   "id": "kaffeekueche",
+   "t": 229.6,
+   "title": "Kaffeeküche",
+   "summary": "Kaffeemaschine aus, Lieblingstasse in die Spüle – und weg aus dem Kamerabild."
+  },
+  {
+   "id": "der-rechner",
+   "t": 275.44,
+   "title": "Der Rechner",
+   "summary": "ImmunSafe? Weizen? Nichts. Bis „der“ in Morsezeichen."
+  },
+  {
+   "id": "verschuettet",
+   "t": 354.9,
+   "title": "Verschüttet",
+   "summary": "Der Chef kommt zurück, der Kaffee landet auf Teppich und Hemd."
+  },
+  {
+   "id": "rebecca-engel",
+   "t": 396.05,
+   "title": "Rebecca, du Engel",
+   "summary": "Rettung aus dem Gang – und ein leiser Abgang hinter dem Empfangstresen."
+  },
+  {
+   "id": "uebergabe",
+   "t": 439.9,
+   "title": "Übergabe",
+   "summary": "Der Mann im schwarzen Anzug. Ein Stick. Ein Blick."
+  }
+ ],
+ "waypoints": {
+  "st.block_far": [
+   -26.0,
+   0,
+   -36.0
+  ],
+  "st.corner": [
+   -26.2,
+   0,
+   -9.0
+  ],
+  "st.approach": [
+   -7.0,
+   0,
+   -8.6
+  ],
+  "st.slow": [
+   -1.4,
+   0,
+   -8.5
+  ],
+  "st.entrance_front": [
+   0.6,
+   0,
+   -8.35
+  ],
+  "st.letter_land": [
+   1.45,
+   0.006,
+   -7.55
+  ],
+  "st.pickup": [
+   1.2,
+   0,
+   -7.95
+  ],
+  "st.throw_from": [
+   2.4,
+   1.05,
+   -3.9
+  ],
+  "st.sedan_far_e": [
+   95,
+   -0.12,
+   -3.0
+  ],
+  "st.sedan_pass": [
+   1.0,
+   -0.12,
+   -3.0
+  ],
+  "st.sedan_far_w": [
+   -120,
+   -0.12,
+   -3.0
+  ],
+  "st.hidden_far": [
+   0,
+   -50,
+   0
+  ],
+  "st.sedan_park": [
+   10.3,
+   -0.12,
+   -7.2
+  ],
+  "st.sedan_out1": [
+   5.0,
+   -0.12,
+   -5.6
+  ],
+  "st.sedan_out2": [
+   -3.0,
+   -0.12,
+   -3.2
+  ],
+  "st.sedan_gone": [
+   -95,
+   -0.12,
+   -3.0
+  ],
+  "st.woman_start": [
+   52,
+   0,
+   8.6
+  ],
+  "st.woman_button": [
+   22.15,
+   0,
+   7.45
+  ],
+  "st.dog_start": [
+   52.3,
+   0,
+   9.4
+  ],
+  "st.dog_wait": [
+   22.3,
+   0,
+   8.25
+  ],
+  "st.dog_break1": [
+   20.2,
+   -0.12,
+   3.2
+  ],
+  "st.dog_break2": [
+   19.2,
+   -0.12,
+   -0.6
+  ],
+  "st.woman_grab": [
+   19.7,
+   -0.12,
+   0.25
+  ],
+  "st.woman_back": [
+   22.0,
+   0,
+   7.6
+  ],
+  "st.dog_back": [
+   22.4,
+   0,
+   8.3
+  ],
+  "st.woman_away": [
+   48,
+   0,
+   8.7
+  ],
+  "st.dog_away": [
+   48.4,
+   0,
+   9.4
+  ],
+  "st.traffic_light": [
+   21.2,
+   2.3,
+   6.6
+  ],
+  "lb.door_out": [
+   0.0,
+   0,
+   -9.9
+  ],
+  "lb.door_in": [
+   0.0,
+   0,
+   -12.7
+  ],
+  "lb.ts_front": [
+   0.0,
+   0,
+   -15.6
+  ],
+  "lb.ts_back": [
+   0.0,
+   0,
+   -18.6
+  ],
+  "lb.mid": [
+   -0.9,
+   0,
+   -24.0
+  ],
+  "lb.call": [
+   -0.55,
+   0,
+   -30.15
+  ],
+  "lb.elev_front": [
+   -1.4,
+   0,
+   -29.9
+  ],
+  "lb.cabin": [
+   -1.4,
+   0,
+   -32.45
+  ],
+  "lb.receptionist": [
+   -8.0,
+   0,
+   -19.75
+  ],
+  "lb.reception_look": [
+   -8.0,
+   1.5,
+   -19.0
+  ],
+  "cab.lobby": [
+   -1.4,
+   0,
+   -32.3
+  ],
+  "cab.f8": [
+   -1.4,
+   28.8,
+   -32.3
+  ],
+  "f8.cabin": [
+   -1.4,
+   28.8,
+   -32.45
+  ],
+  "f8.exit": [
+   -1.4,
+   28.8,
+   -30.1
+  ],
+  "f8.blind": [
+   1.95,
+   28.8,
+   -30.35
+  ],
+  "f8.glass_before": [
+   -1.4,
+   28.8,
+   -27.9
+  ],
+  "f8.glass_after": [
+   -1.4,
+   28.8,
+   -25.9
+  ],
+  "f8.greet": [
+   -3.45,
+   28.8,
+   -24.75
+  ],
+  "f8.rebecca": [
+   -6.05,
+   28.8,
+   -24.3
+  ],
+  "f8.corr_a": [
+   1.6,
+   28.8,
+   -25.4
+  ],
+  "f8.corr_b": [
+   4.75,
+   28.8,
+   -25.75
+  ],
+  "f8.robert_in": [
+   5.6,
+   28.8,
+   -31.0
+  ],
+  "f8.robert_door": [
+   5.6,
+   28.8,
+   -27.6
+  ],
+  "f8.robert_out": [
+   5.5,
+   28.8,
+   -26.4
+  ],
+  "f8.papers": [
+   5.2,
+   29.95,
+   -26.0
+  ],
+  "f8.gamespace": [
+   8.6,
+   28.8,
+   -22.9
+  ],
+  "f8.island_s": [
+   12.95,
+   28.8,
+   -25.05
+  ],
+  "f8.coffee": [
+   14.85,
+   28.8,
+   -24.6
+  ],
+  "f8.mugs": [
+   14.85,
+   28.8,
+   -23.0
+  ],
+  "f8.sink": [
+   14.85,
+   28.8,
+   -21.0
+  ],
+  "f8.glasses": [
+   14.85,
+   28.8,
+   -19.45
+  ],
+  "f8.counter_end": [
+   14.85,
+   28.8,
+   -17.7
+  ],
+  "f8.island_nw": [
+   12.1,
+   28.8,
+   -18.8
+  ],
+  "f8.cfo_door": [
+   9.25,
+   28.8,
+   -26.45
+  ],
+  "f8.crawl_end": [
+   10.05,
+   28.8,
+   -26.62
+  ],
+  "f8.ceo_door_out": [
+   12.35,
+   28.8,
+   -26.7
+  ],
+  "f8.ceo_door_in": [
+   12.4,
+   28.8,
+   -28.35
+  ],
+  "f8.ceo_window": [
+   13.6,
+   28.8,
+   -39.6
+  ],
+  "f8.ceo_mid": [
+   13.0,
+   28.8,
+   -33.0
+  ],
+  "f8.desk_w": [
+   12.1,
+   28.8,
+   -36.15
+  ],
+  "f8.chair": [
+   13.6,
+   28.8,
+   -36.1
+  ],
+  "f8.hide_door": [
+   11.5,
+   28.8,
+   -28.35
+  ],
+  "f8.ceo_spill": [
+   13.05,
+   28.8,
+   -29.6
+  ],
+  "f8.spill": [
+   12.85,
+   28.806,
+   -29.15
+  ],
+  "f8.plant_e": [
+   11.2,
+   28.8,
+   -26.25
+  ],
+  "f8.island_sw": [
+   11.85,
+   28.8,
+   -23.9
+  ],
+  "f8.island_hide": [
+   12.15,
+   28.8,
+   -21.4
+  ],
+  "f8.ceo_aisle1": [
+   14.25,
+   28.8,
+   -24.4
+  ],
+  "f8.ceo_aisle2": [
+   14.25,
+   28.8,
+   -22.4
+  ],
+  "f8.ceo_office_back": [
+   12.9,
+   28.8,
+   -30.4
+  ],
+  "f8.rebecca_stop": [
+   9.4,
+   28.8,
+   -25.15
+  ],
+  "f8.closet_front": [
+   -11.2,
+   28.8,
+   -26.0
+  ],
+  "f8.closet_in": [
+   -11.2,
+   28.8,
+   -28.4
+  ],
+  "f8.reb_ceo": [
+   11.6,
+   28.8,
+   -25.7
+  ],
+  "f8.reb_ceo_in": [
+   12.7,
+   28.8,
+   -29.0
+  ],
+  "f8.sneak1": [
+   8.0,
+   28.8,
+   -23.6
+  ],
+  "f8.sneak2": [
+   -2.0,
+   28.8,
+   -25.5
+  ],
+  "f8.sneak3": [
+   -4.7,
+   28.8,
+   -26.2
+  ],
+  "f8.reception_hide": [
+   -5.75,
+   28.8,
+   -24.0
+  ],
+  "lb.exit_turn": [
+   -0.4,
+   0,
+   -21.0
+  ],
+  "st.handover_hero": [
+   6.5,
+   0,
+   -9.3
+  ],
+  "st.man_wait": [
+   8.25,
+   0,
+   -9.0
+  ],
+  "st.man_rear": [
+   13.0,
+   0,
+   -8.8
+  ],
+  "st.man_road": [
+   13.3,
+   -0.12,
+   -5.75
+  ],
+  "st.man_door": [
+   10.9,
+   -0.12,
+   -5.75
+  ],
+  "st.watch_spot": [
+   6.4,
+   0,
+   -9.25
+  ],
+  "kitchen_machine": [
+   15.5,
+   30.05,
+   -24.6
+  ],
+  "screen_ceo": [
+   13.6,
+   29.95,
+   -35.1
+  ]
+ },
+ "actors": {
+  "protagonist": {
+   "name": "Ich",
+   "kind": "human",
+   "selectable": true,
+   "model": null,
+   "look": {
+    "height": 1.84,
+    "build": 1.08,
+    "skin": "#d2a184",
+    "hair": "#16110e",
+    "hairStyle": "short",
+    "shirt": "#e4e2dc",
+    "jacket": "#1f2a3d",
+    "pants": "#2c3d63",
+    "shoes": "#3a2516"
+   },
+   "animations": {},
+   "bones": {}
+  },
+  "rebecca": {
+   "name": "Rebecca",
+   "kind": "human",
+   "selectable": true,
+   "model": null,
+   "look": {
+    "height": 1.69,
+    "female": true,
+    "skin": "#e2b79a",
+    "hair": "#7a3b1c",
+    "hairStyle": "bun",
+    "shirt": "#a7b8a0",
+    "pants": "#2b2b30",
+    "shoes": "#1b1b1b"
+   }
+  },
+  "robert": {
+   "name": "Robert",
+   "kind": "human",
+   "selectable": true,
+   "model": null,
+   "look": {
+    "height": 1.78,
+    "build": 1.12,
+    "skin": "#e0b597",
+    "hair": "#5b4632",
+    "hairStyle": "short",
+    "shirt": "#a9c4e0",
+    "pants": "#c2ae8b",
+    "shoes": "#4a3322",
+    "glasses": true
+   }
+  },
+  "ceo": {
+   "name": "Chef (CEO)",
+   "kind": "human",
+   "selectable": true,
+   "model": null,
+   "look": {
+    "height": 1.82,
+    "build": 1.18,
+    "skin": "#dcae92",
+    "hair": "#8f8a84",
+    "hairStyle": "slick",
+    "shirt": "#f2f2f2",
+    "jacket": "#4a4f57",
+    "pants": "#4a4f57",
+    "tie": "#6b1f2a",
+    "shoes": "#161616"
+   }
+  },
+  "woman_red_coat": {
+   "name": "Frau im roten Mantel",
+   "kind": "human",
+   "selectable": true,
+   "model": null,
+   "look": {
+    "height": 1.72,
+    "female": true,
+    "skin": "#efc8ad",
+    "hair": "#d8bf8a",
+    "hairStyle": "long",
+    "coat": "#b3121b",
+    "pants": "#1d1d22",
+    "shoes": "#111"
+   }
+  },
+  "husky": {
+   "name": "Husky",
+   "kind": "dog",
+   "selectable": true,
+   "model": null
+  },
+  "man_black_suit": {
+   "name": "Mann im schwarzen Anzug",
+   "kind": "human",
+   "selectable": true,
+   "model": null,
+   "look": {
+    "height": 1.88,
+    "build": 1.1,
+    "skin": "#c99878",
+    "hair": "#0d0d0d",
+    "hairStyle": "slick",
+    "shirt": "#f5f5f5",
+    "jacket": "#0b0b0d",
+    "pants": "#0b0b0d",
+    "tie": "#0b0b0d",
+    "shoes": "#050505",
+    "sunglasses": true
+   }
+  },
+  "receptionist": {
+   "name": "Empfang (Lobby)",
+   "kind": "human",
+   "selectable": false,
+   "model": null,
+   "look": {
+    "height": 1.76,
+    "skin": "#b98466",
+    "hair": "#2a1d14",
+    "hairStyle": "short",
+    "shirt": "#e8e8e8",
+    "jacket": "#1c2b4a",
+    "pants": "#1c2b4a"
+   }
+  },
+  "black_sedan": {
+   "name": "Schwarze Limousine",
+   "kind": "car",
+   "selectable": true,
+   "model": null,
+   "look": {
+    "color": "#050506",
+    "glassOpacity": 0.9
+   }
+  },
+  "elevator": {
+   "name": "Aufzugskabine",
+   "kind": "object",
+   "selectable": false,
+   "look": {
+    "target": "elevator.cabin"
+   }
+  }
+ },
+ "tracks": {
+  "protagonist": [
+   {
+    "t": 0,
+    "at": "st.block_far",
+    "pose": "run"
+   },
+   {
+    "t": 5.6,
+    "at": "st.corner",
+    "pose": "run"
+   },
+   {
+    "t": 10.0,
+    "at": "st.approach",
+    "pose": "jog"
+   },
+   {
+    "t": 12.2,
+    "at": "st.slow",
+    "pose": "walk"
+   },
+   {
+    "t": 13.8,
+    "at": "st.entrance_front",
+    "pose": "breathe",
+    "face": 0
+   },
+   {
+    "t": 18.6,
+    "at": "st.entrance_front",
+    "pose": "idle",
+    "look": "black_sedan"
+   },
+   {
+    "t": 21.9,
+    "at": "st.entrance_front",
+    "pose": "walk"
+   },
+   {
+    "t": 22.8,
+    "at": "st.pickup",
+    "pose": "pick_up",
+    "face": 60
+   },
+   {
+    "t": 24.1,
+    "at": "st.pickup",
+    "pose": "hold_letter"
+   },
+   {
+    "t": 27.75,
+    "at": "st.pickup",
+    "pose": "read",
+    "face": 20
+   },
+   {
+    "t": 83.18,
+    "at": "st.pickup",
+    "pose": "hold_letter",
+    "look": "woman_red_coat"
+   },
+   {
+    "t": 94.78,
+    "at": "st.pickup",
+    "pose": "startled",
+    "look": "husky"
+   },
+   {
+    "t": 95.98,
+    "at": "st.pickup",
+    "pose": "hold_letter",
+    "look": "husky"
+   },
+   {
+    "t": 112.66,
+    "at": "st.pickup",
+    "pose": "walk"
+   },
+   {
+    "t": 114.036,
+    "at": "lb.door_out",
+    "pose": "walk"
+   },
+   {
+    "t": 115.718,
+    "at": "lb.door_in",
+    "pose": "walk"
+   },
+   {
+    "t": 117.46,
+    "at": "lb.ts_front",
+    "pose": "walk_wave",
+    "look": "receptionist"
+   },
+   {
+    "t": 119.56,
+    "at": "lb.ts_back",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 123.042,
+    "at": "lb.mid",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 126.96,
+    "at": "lb.call",
+    "pose": "press",
+    "face": 180
+   },
+   {
+    "t": 128.16,
+    "at": "lb.call",
+    "pose": "impatient",
+    "face": 180
+   },
+   {
+    "t": 134.16,
+    "at": "lb.call",
+    "pose": "walk"
+   },
+   {
+    "t": 134.727,
+    "at": "lb.elev_front",
+    "pose": "walk"
+   },
+   {
+    "t": 136.36,
+    "at": "lb.cabin",
+    "pose": "idle",
+    "face": 0
+   },
+   {
+    "t": 138.26,
+    "at": "lb.cabin",
+    "pose": "tie_shoe",
+    "ease": "ease"
+   },
+   {
+    "t": 145.06,
+    "at": "f8.cabin",
+    "pose": "idle",
+    "face": 0
+   },
+   {
+    "t": 146.06,
+    "at": "f8.cabin",
+    "pose": "walk"
+   },
+   {
+    "t": 147.86,
+    "at": "f8.exit",
+    "pose": "look_down",
+    "face": 0
+   },
+   {
+    "t": 150.06,
+    "at": "f8.exit",
+    "pose": "walk"
+   },
+   {
+    "t": 151.96,
+    "at": "f8.blind",
+    "pose": "search_pocket",
+    "face": -15
+   },
+   {
+    "t": 152.96,
+    "at": "f8.blind",
+    "pose": "read",
+    "face": -15
+   },
+   {
+    "t": 187.0,
+    "at": "f8.blind",
+    "pose": "check_watch",
+    "face": -15
+   },
+   {
+    "t": 187.8,
+    "at": "f8.blind",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 190.0,
+    "at": "f8.glass_before",
+    "pose": "walk",
+    "look": "rebecca"
+   },
+   {
+    "t": 191.195,
+    "at": "f8.glass_after",
+    "pose": "walk",
+    "look": "rebecca"
+   },
+   {
+    "t": 192.6,
+    "at": "f8.greet",
+    "pose": "talk",
+    "face": -110,
+    "look": "rebecca"
+   },
+   {
+    "t": 198.72,
+    "at": "f8.greet",
+    "pose": "idle",
+    "face": -110,
+    "look": "rebecca"
+   },
+   {
+    "t": 204.93,
+    "at": "f8.greet",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 208.53,
+    "at": "f8.corr_a",
+    "pose": "check_watch",
+    "face": 95
+   },
+   {
+    "t": 209.53,
+    "at": "f8.corr_a",
+    "pose": "jog"
+   },
+   {
+    "t": 211.53,
+    "at": "f8.corr_b",
+    "pose": "startled",
+    "face": 170,
+    "look": "robert"
+   },
+   {
+    "t": 212.73,
+    "at": "f8.corr_b",
+    "pose": "idle",
+    "face": 170,
+    "look": "robert"
+   },
+   {
+    "t": 222.86,
+    "at": "f8.corr_b",
+    "pose": "talk",
+    "face": 170,
+    "look": "robert"
+   },
+   {
+    "t": 229.6,
+    "at": "f8.corr_b",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 232.327,
+    "at": "f8.gamespace",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 235.089,
+    "at": "f8.island_s",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 236.2,
+    "at": "f8.coffee",
+    "pose": "elbow",
+    "face": 90
+   },
+   {
+    "t": 237.5,
+    "at": "f8.coffee",
+    "pose": "walk"
+   },
+   {
+    "t": 238.6,
+    "at": "f8.mugs",
+    "pose": "reach_high",
+    "face": 90
+   },
+   {
+    "t": 239.9,
+    "at": "f8.mugs",
+    "pose": "carry"
+   },
+   {
+    "t": 241.4,
+    "at": "f8.sink",
+    "pose": "reach",
+    "face": 90
+   },
+   {
+    "t": 242.4,
+    "at": "f8.sink",
+    "pose": "walk"
+   },
+   {
+    "t": 243.6,
+    "at": "f8.glasses",
+    "pose": "reach_high",
+    "face": 90
+   },
+   {
+    "t": 244.7,
+    "at": "f8.glasses",
+    "pose": "carry"
+   },
+   {
+    "t": 245.9,
+    "at": "f8.sink",
+    "pose": "fill",
+    "face": 90
+   },
+   {
+    "t": 248.3,
+    "at": "f8.sink",
+    "pose": "drink",
+    "face": 90
+   },
+   {
+    "t": 249.5,
+    "at": "f8.sink",
+    "pose": "carry"
+   },
+   {
+    "t": 250.9,
+    "at": "f8.counter_end",
+    "pose": "reach",
+    "face": 90
+   },
+   {
+    "t": 251.9,
+    "at": "f8.counter_end",
+    "pose": "walk"
+   },
+   {
+    "t": 253.391,
+    "at": "f8.island_nw",
+    "pose": "walk"
+   },
+   {
+    "t": 257.5,
+    "at": "f8.cfo_door",
+    "pose": "reach",
+    "face": 180
+   },
+   {
+    "t": 258.3,
+    "at": "f8.cfo_door",
+    "pose": "crouch",
+    "face": 180
+   },
+   {
+    "t": 258.9,
+    "at": "f8.cfo_door",
+    "pose": "crawl"
+   },
+   {
+    "t": 262.3,
+    "at": "f8.crawl_end",
+    "pose": "crouch_watch",
+    "face": 95
+   },
+   {
+    "t": 264.1,
+    "at": "f8.crawl_end",
+    "pose": "crouch_press",
+    "face": 95
+   },
+   {
+    "t": 271.04,
+    "at": "f8.crawl_end",
+    "pose": "crouch",
+    "face": 95
+   },
+   {
+    "t": 273.34,
+    "at": "f8.crawl_end",
+    "pose": "sneak"
+   },
+   {
+    "t": 274.388,
+    "at": "f8.ceo_door_out",
+    "pose": "sneak"
+   },
+   {
+    "t": 275.14,
+    "at": "f8.ceo_door_in"
+   },
+   {
+    "t": 275.44,
+    "at": "f8.ceo_door_in",
+    "pose": "search_pocket",
+    "face": 180
+   },
+   {
+    "t": 278.04,
+    "at": "f8.ceo_door_in",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 281.898,
+    "at": "f8.desk_w",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 282.64,
+    "at": "f8.chair",
+    "pose": "sit_type",
+    "face": 0
+   },
+   {
+    "t": 293.31,
+    "at": "f8.chair",
+    "pose": "sit_hair",
+    "face": 0
+   },
+   {
+    "t": 298.39,
+    "at": "f8.chair",
+    "pose": "sit_type",
+    "face": 0
+   },
+   {
+    "t": 323.21,
+    "at": "f8.chair",
+    "pose": "sit_phone",
+    "face": 0
+   },
+   {
+    "t": 333.28,
+    "at": "f8.chair",
+    "pose": "sit_type",
+    "face": 0
+   },
+   {
+    "t": 339.19,
+    "at": "f8.chair",
+    "pose": "sit_type",
+    "face": 0
+   },
+   {
+    "t": 341.99,
+    "at": "f8.chair",
+    "pose": "sit_photo",
+    "face": 0
+   },
+   {
+    "t": 344.19,
+    "at": "f8.chair",
+    "pose": "sit_type",
+    "face": 0
+   },
+   {
+    "t": 348.7,
+    "at": "f8.chair",
+    "pose": "idle",
+    "face": 0
+   },
+   {
+    "t": 349.3,
+    "at": "f8.chair",
+    "pose": "sneak"
+   },
+   {
+    "t": 350.008,
+    "at": "f8.desk_w",
+    "pose": "sneak"
+   },
+   {
+    "t": 353.7,
+    "at": "f8.hide_door",
+    "pose": "hide",
+    "face": 90,
+    "look": "f8.ceo_door_out"
+   },
+   {
+    "t": 367.12,
+    "at": "f8.hide_door",
+    "pose": "sneak"
+   },
+   {
+    "t": 367.738,
+    "at": "f8.ceo_door_in",
+    "pose": "sneak"
+   },
+   {
+    "t": 368.872,
+    "at": "f8.ceo_door_out",
+    "pose": "sneak"
+   },
+   {
+    "t": 369.72,
+    "at": "f8.plant_e",
+    "pose": "crouch",
+    "face": 0
+   },
+   {
+    "t": 370.02,
+    "at": "f8.plant_e",
+    "pose": "sneak"
+   },
+   {
+    "t": 371.004,
+    "at": "f8.island_sw",
+    "pose": "sneak"
+   },
+   {
+    "t": 372.02,
+    "at": "f8.island_hide",
+    "pose": "crouch_press",
+    "face": 90
+   },
+   {
+    "t": 389.49,
+    "at": "f8.island_hide",
+    "pose": "crouch_reach",
+    "face": 90
+   },
+   {
+    "t": 392.12,
+    "at": "f8.island_hide",
+    "pose": "crouch_press",
+    "face": 90
+   },
+   {
+    "t": 410.4,
+    "at": "f8.island_hide",
+    "pose": "sneak"
+   },
+   {
+    "t": 412.129,
+    "at": "f8.sneak1",
+    "pose": "sneak"
+   },
+   {
+    "t": 415.876,
+    "at": "f8.sneak2",
+    "pose": "sneak"
+   },
+   {
+    "t": 416.903,
+    "at": "f8.sneak3",
+    "pose": "sneak"
+   },
+   {
+    "t": 417.8,
+    "at": "f8.reception_hide",
+    "pose": "crouch_press",
+    "face": 20
+   },
+   {
+    "t": 425.9,
+    "at": "f8.reception_hide",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 426.929,
+    "at": "f8.sneak3",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 428.327,
+    "at": "f8.glass_after",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 429.171,
+    "at": "f8.glass_before",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 430.1,
+    "at": "f8.exit",
+    "pose": "walk"
+   },
+   {
+    "t": 431.7,
+    "at": "f8.cabin",
+    "pose": "idle",
+    "face": 0
+   },
+   {
+    "t": 433.3,
+    "at": "f8.cabin",
+    "pose": "idle",
+    "face": 0,
+    "ease": "ease"
+   },
+   {
+    "t": 439.7,
+    "at": "lb.cabin",
+    "pose": "idle",
+    "face": 0
+   },
+   {
+    "t": 440.5,
+    "at": "lb.cabin",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 441.524,
+    "at": "lb.elev_front",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 445.123,
+    "at": "lb.exit_turn",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 446.1,
+    "at": "lb.ts_back",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 447.829,
+    "at": "lb.ts_front",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 449.5,
+    "at": "lb.door_in",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 450.821,
+    "at": "lb.door_out",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 453.9,
+    "at": "st.handover_hero",
+    "pose": "idle",
+    "face": 85,
+    "look": "man_black_suit"
+   },
+   {
+    "t": 456.99,
+    "at": "st.handover_hero",
+    "pose": "give",
+    "face": 85,
+    "look": "man_black_suit"
+   },
+   {
+    "t": 458.79,
+    "at": "st.handover_hero",
+    "pose": "idle",
+    "face": 85,
+    "look": "man_black_suit"
+   },
+   {
+    "t": 470.34,
+    "at": "st.handover_hero",
+    "pose": "idle",
+    "face": 60,
+    "look": "black_sedan"
+   }
+  ],
+  "black_sedan": [
+   {
+    "t": 0,
+    "at": "st.sedan_far_e",
+    "pose": "drive"
+   },
+   {
+    "t": 11.2,
+    "at": "st.sedan_far_e",
+    "pose": "drive"
+   },
+   {
+    "t": 20.2,
+    "at": "st.sedan_pass",
+    "pose": "drive"
+   },
+   {
+    "t": 32.2,
+    "at": "st.sedan_far_w",
+    "pose": "drive"
+   },
+   {
+    "t": 32.3,
+    "at": "st.hidden_far",
+    "pose": "hidden"
+   },
+   {
+    "t": 132.66,
+    "at": "st.hidden_far",
+    "pose": "hidden"
+   },
+   {
+    "t": 133.16,
+    "at": "st.sedan_park",
+    "pose": "park",
+    "face": -90
+   },
+   {
+    "t": 470.34,
+    "at": "st.sedan_park",
+    "pose": "drive",
+    "ease": "in"
+   },
+   {
+    "t": 473.34,
+    "at": "st.sedan_out1",
+    "pose": "drive"
+   },
+   {
+    "t": 474.94,
+    "at": "st.sedan_out2",
+    "pose": "drive"
+   },
+   {
+    "t": 482.34,
+    "at": "st.sedan_gone",
+    "pose": "drive"
+   }
+  ],
+  "woman_red_coat": [
+   {
+    "t": 0,
+    "at": "st.woman_start",
+    "pose": "hidden"
+   },
+   {
+    "t": 59.78,
+    "at": "st.woman_start",
+    "pose": "leash_walk"
+   },
+   {
+    "t": 83.78,
+    "at": "st.woman_button",
+    "pose": "press",
+    "face": -75
+   },
+   {
+    "t": 85.38,
+    "at": "st.woman_button",
+    "pose": "leash_idle",
+    "face": -90
+   },
+   {
+    "t": 87.38,
+    "at": "st.woman_button",
+    "pose": "look_around",
+    "face": -90
+   },
+   {
+    "t": 94.78,
+    "at": "st.woman_button",
+    "pose": "startled",
+    "face": -90
+   },
+   {
+    "t": 95.28,
+    "at": "st.woman_button",
+    "pose": "run"
+   },
+   {
+    "t": 97.78,
+    "at": "st.woman_grab",
+    "pose": "leash_pull",
+    "face": -110,
+    "look": "husky"
+   },
+   {
+    "t": 99.18,
+    "at": "st.woman_grab",
+    "pose": "leash_walk"
+   },
+   {
+    "t": 103.18,
+    "at": "st.woman_back",
+    "pose": "leash_idle",
+    "face": -90
+   },
+   {
+    "t": 106.28,
+    "at": "st.woman_back",
+    "pose": "leash_walk"
+   },
+   {
+    "t": 123.78,
+    "at": "st.woman_away",
+    "pose": "hidden"
+   }
+  ],
+  "husky": [
+   {
+    "t": 0,
+    "at": "st.dog_start",
+    "pose": "hidden"
+   },
+   {
+    "t": 59.78,
+    "at": "st.dog_start",
+    "pose": "dog_walk"
+   },
+   {
+    "t": 83.78,
+    "at": "st.dog_wait",
+    "pose": "dog_idle",
+    "face": -90
+   },
+   {
+    "t": 94.78,
+    "at": "st.dog_wait",
+    "pose": "dog_run"
+   },
+   {
+    "t": 95.73,
+    "at": "st.dog_break1",
+    "pose": "dog_run"
+   },
+   {
+    "t": 96.68,
+    "at": "st.dog_break2",
+    "pose": "dog_idle",
+    "face": -120
+   },
+   {
+    "t": 98.38,
+    "at": "st.dog_break2",
+    "pose": "dog_pull",
+    "face": 60
+   },
+   {
+    "t": 99.18,
+    "at": "st.dog_break2",
+    "pose": "dog_walk"
+   },
+   {
+    "t": 103.38,
+    "at": "st.dog_back",
+    "pose": "dog_sit",
+    "face": -90
+   },
+   {
+    "t": 106.28,
+    "at": "st.dog_back",
+    "pose": "dog_walk"
+   },
+   {
+    "t": 123.78,
+    "at": "st.dog_away",
+    "pose": "hidden"
+   }
+  ],
+  "receptionist": [
+   {
+    "t": 0,
+    "at": "lb.receptionist",
+    "pose": "sit_idle",
+    "face": 0
+   },
+   {
+    "t": 117.66,
+    "at": "lb.receptionist",
+    "pose": "wave",
+    "face": 0,
+    "look": "protagonist"
+   },
+   {
+    "t": 120.06,
+    "at": "lb.receptionist",
+    "pose": "sit_idle",
+    "face": 0
+   }
+  ],
+  "elevator": [
+   {
+    "t": 0,
+    "at": "cab.lobby"
+   },
+   {
+    "t": 138.26,
+    "at": "cab.lobby",
+    "ease": "ease"
+   },
+   {
+    "t": 145.06,
+    "at": "cab.f8"
+   },
+   {
+    "t": 433.3,
+    "at": "cab.f8",
+    "ease": "ease"
+   },
+   {
+    "t": 439.7,
+    "at": "cab.lobby"
+   }
+  ],
+  "rebecca": [
+   {
+    "t": 0,
+    "at": "f8.rebecca",
+    "pose": "sit_idle",
+    "face": 90
+   },
+   {
+    "t": 190.6,
+    "at": "f8.rebecca",
+    "pose": "sit_talk",
+    "face": 90,
+    "look": "protagonist"
+   },
+   {
+    "t": 205.93,
+    "at": "f8.rebecca",
+    "pose": "sit_type",
+    "face": 90
+   },
+   {
+    "t": 386.85,
+    "at": "f8.rebecca",
+    "pose": "sit_idle",
+    "face": 90
+   },
+   {
+    "t": 387.45,
+    "at": "f8.rebecca",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 390.133,
+    "at": "f8.glass_after",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 391.792,
+    "at": "f8.corr_a",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 396.05,
+    "at": "f8.rebecca_stop",
+    "pose": "talk",
+    "face": 80,
+    "look": "ceo"
+   },
+   {
+    "t": 408.6,
+    "at": "f8.rebecca_stop",
+    "pose": "idle",
+    "face": 80,
+    "look": "ceo"
+   },
+   {
+    "t": 409.4,
+    "at": "f8.rebecca_stop",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 412.807,
+    "at": "f8.corr_a",
+    "pose": "walk_fast"
+   },
+   {
+    "t": 418.4,
+    "at": "f8.closet_front",
+    "pose": "walk"
+   },
+   {
+    "t": 419.8,
+    "at": "f8.closet_in",
+    "pose": "reach",
+    "face": 180
+   },
+   {
+    "t": 421.1,
+    "at": "f8.closet_in",
+    "pose": "carry_bucket"
+   },
+   {
+    "t": 422.5,
+    "at": "f8.closet_front",
+    "pose": "carry_bucket"
+   },
+   {
+    "t": 428.565,
+    "at": "f8.corr_a",
+    "pose": "carry_bucket"
+   },
+   {
+    "t": 433.3,
+    "at": "f8.reb_ceo",
+    "pose": "walk"
+   },
+   {
+    "t": 434.9,
+    "at": "f8.reb_ceo_in",
+    "pose": "pick_papers",
+    "face": 180
+   }
+  ],
+  "robert": [
+   {
+    "t": 0,
+    "at": "f8.robert_in",
+    "pose": "idle",
+    "face": 180
+   },
+   {
+    "t": 209.23,
+    "at": "f8.robert_in",
+    "pose": "carry_papers"
+   },
+   {
+    "t": 210.928,
+    "at": "f8.robert_door",
+    "pose": "carry_papers"
+   },
+   {
+    "t": 211.53,
+    "at": "f8.robert_out",
+    "pose": "startled",
+    "face": -10,
+    "look": "protagonist"
+   },
+   {
+    "t": 212.93,
+    "at": "f8.robert_out",
+    "pose": "angry",
+    "face": -10,
+    "look": "protagonist"
+   },
+   {
+    "t": 218.63,
+    "at": "f8.robert_out",
+    "pose": "idle",
+    "face": -10,
+    "look": "protagonist"
+   },
+   {
+    "t": 227.96,
+    "at": "f8.robert_out",
+    "pose": "pick_papers",
+    "face": 0
+   },
+   {
+    "t": 241.53,
+    "at": "f8.robert_out",
+    "pose": "walk"
+   },
+   {
+    "t": 242.445,
+    "at": "f8.robert_door",
+    "pose": "walk"
+   },
+   {
+    "t": 245.03,
+    "at": "f8.robert_in",
+    "pose": "idle",
+    "face": 180
+   }
+  ],
+  "ceo": [
+   {
+    "t": 0,
+    "at": "f8.ceo_window",
+    "pose": "phone",
+    "face": 180
+   },
+   {
+    "t": 266.84,
+    "at": "f8.ceo_window",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 270.003,
+    "at": "f8.ceo_mid",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 272.24,
+    "at": "f8.ceo_door_in"
+   },
+   {
+    "t": 272.44,
+    "at": "f8.ceo_door_in",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 273.302,
+    "at": "f8.ceo_door_out",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 274.22,
+    "at": "f8.island_s",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 275.24,
+    "at": "f8.coffee",
+    "pose": "phone",
+    "face": 90
+   },
+   {
+    "t": 313.33,
+    "at": "f8.coffee",
+    "pose": "phone_shoulder",
+    "face": 90
+   },
+   {
+    "t": 350.3,
+    "at": "f8.coffee",
+    "pose": "phone_shoulder_walk"
+   },
+   {
+    "t": 352.722,
+    "at": "f8.island_s",
+    "pose": "phone_shoulder_walk"
+   },
+   {
+    "t": 354.9,
+    "at": "f8.ceo_door_out",
+    "pose": "phone_shoulder_walk"
+   },
+   {
+    "t": 356.087,
+    "at": "f8.ceo_door_in",
+    "pose": "phone_shoulder_walk"
+   },
+   {
+    "t": 357.1,
+    "at": "f8.ceo_spill",
+    "pose": "startled",
+    "face": 150
+   },
+   {
+    "t": 359.34,
+    "at": "f8.ceo_spill",
+    "pose": "angry",
+    "face": 170
+   },
+   {
+    "t": 361.88,
+    "at": "f8.ceo_spill",
+    "pose": "dab",
+    "face": 180
+   },
+   {
+    "t": 370.62,
+    "at": "f8.ceo_spill",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 371.881,
+    "at": "f8.ceo_door_in",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 373.359,
+    "at": "f8.ceo_door_out",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 376.03,
+    "at": "f8.ceo_aisle1",
+    "pose": "phone_walk"
+   },
+   {
+    "t": 377.82,
+    "at": "f8.ceo_aisle2",
+    "pose": "angry",
+    "face": 0
+   },
+   {
+    "t": 396.35,
+    "at": "f8.ceo_aisle2",
+    "pose": "angry",
+    "face": -100,
+    "look": "rebecca"
+   },
+   {
+    "t": 407.6,
+    "at": "f8.ceo_aisle2",
+    "pose": "idle",
+    "face": -100,
+    "look": "rebecca"
+   },
+   {
+    "t": 408.8,
+    "at": "f8.ceo_aisle2",
+    "pose": "walk"
+   },
+   {
+    "t": 410.081,
+    "at": "f8.ceo_aisle1",
+    "pose": "walk"
+   },
+   {
+    "t": 411.991,
+    "at": "f8.ceo_door_out",
+    "pose": "walk"
+   },
+   {
+    "t": 413.049,
+    "at": "f8.ceo_door_in",
+    "pose": "walk"
+   },
+   {
+    "t": 414.4,
+    "at": "f8.ceo_office_back",
+    "pose": "dab",
+    "face": 180
+   }
+  ],
+  "man_black_suit": [
+   {
+    "t": 0,
+    "at": "st.hidden_far",
+    "pose": "hidden"
+   },
+   {
+    "t": 133.16,
+    "at": "st.man_wait",
+    "pose": "stand",
+    "face": -95
+   },
+   {
+    "t": 454.1,
+    "at": "st.man_wait",
+    "pose": "hand_out",
+    "face": -95,
+    "look": "protagonist"
+   },
+   {
+    "t": 458.59,
+    "at": "st.man_wait",
+    "pose": "stand",
+    "face": -95,
+    "look": "protagonist"
+   },
+   {
+    "t": 464.04,
+    "at": "st.man_wait",
+    "pose": "walk"
+   },
+   {
+    "t": 466.319,
+    "at": "st.man_rear",
+    "pose": "walk"
+   },
+   {
+    "t": 467.789,
+    "at": "st.man_road",
+    "pose": "walk"
+   },
+   {
+    "t": 468.94,
+    "at": "st.man_door"
+   },
+   {
+    "t": 469.34,
+    "at": "st.man_door",
+    "pose": "hidden"
+   }
+  ]
+ },
+ "props": {
+  "letter": {
+   "shape": "letter",
+   "color": "#efe7d6",
+   "keys": [
+    {
+     "t": 0,
+     "visible": false
+    },
+    {
+     "t": 20.05,
+     "at": "st.letter_land",
+     "rot": [
+      0,
+      35,
+      0
+     ],
+     "fly": {
+      "from": "st.throw_from",
+      "dur": 1.25,
+      "arc": 0.55,
+      "spin": 1.6
+     }
+    },
+    {
+     "t": 23.4,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.02,
+      0.07
+     ],
+     "rot": [
+      -70,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 27.75,
+     "attach": "protagonist.handR",
+     "at": [
+      0.05,
+      -0.03,
+      0.08
+     ],
+     "rot": [
+      -60,
+      15,
+      -10
+     ]
+    },
+    {
+     "t": 83.18,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.02,
+      0.07
+     ],
+     "rot": [
+      -75,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 121.66,
+     "visible": false
+    },
+    {
+     "t": 152.66,
+     "attach": "protagonist.handR",
+     "at": [
+      0.05,
+      -0.03,
+      0.08
+     ],
+     "rot": [
+      -60,
+      15,
+      -10
+     ]
+    },
+    {
+     "t": 186.9,
+     "visible": false
+    }
+   ]
+  },
+  "papers_stack": {
+   "shape": "papers",
+   "keys": [
+    {
+     "t": 0,
+     "attach": "robert.handR",
+     "at": [
+      -0.12,
+      -0.05,
+      0.12
+     ],
+     "rot": [
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 211.53,
+     "visible": false
+    }
+   ]
+  },
+  "ceo_mug": {
+   "shape": "mug",
+   "color": "#c2410c",
+   "keys": [
+    {
+     "t": 0,
+     "at": [
+      15.68,
+      30.16,
+      -23.17
+     ],
+     "rot": [
+      0,
+      180,
+      0
+     ]
+    },
+    {
+     "t": 239.4,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.06,
+      0.03
+     ],
+     "rot": [
+      90,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 241.9,
+     "at": [
+      15.56,
+      29.73,
+      -21.05
+     ],
+     "rot": [
+      0,
+      30,
+      0
+     ]
+    },
+    {
+     "t": 314.33,
+     "attach": "ceo.handL",
+     "at": [
+      0.0,
+      -0.06,
+      0.03
+     ],
+     "rot": [
+      90,
+      0,
+      0
+     ]
+    }
+   ]
+  },
+  "water_glass": {
+   "shape": "glass",
+   "keys": [
+    {
+     "t": 0,
+     "at": [
+      15.68,
+      30.17,
+      -19.45
+     ]
+    },
+    {
+     "t": 244.3,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.08,
+      0.03
+     ],
+     "rot": [
+      90,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 251.4,
+     "at": [
+      15.55,
+      29.745,
+      -17.7
+     ]
+    }
+   ]
+  },
+  "usb": {
+   "shape": "usb",
+   "color": "#1d4ed8",
+   "keys": [
+    {
+     "t": 0,
+     "visible": false
+    },
+    {
+     "t": 277.04,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.02,
+      0.04
+     ],
+     "rot": [
+      90,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 282.64,
+     "at": [
+      12.85,
+      29.59,
+      -35.0
+     ],
+     "rot": [
+      0,
+      90,
+      0
+     ]
+    },
+    {
+     "t": 347.5,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.02,
+      0.04
+     ],
+     "rot": [
+      90,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 457.89,
+     "attach": "man_black_suit.handR",
+     "at": [
+      0.0,
+      -0.02,
+      0.04
+     ],
+     "rot": [
+      90,
+      0,
+      0
+     ]
+    },
+    {
+     "t": 459.89,
+     "visible": false
+    }
+   ]
+  },
+  "phone": {
+   "shape": "phone",
+   "keys": [
+    {
+     "t": 0,
+     "visible": false
+    },
+    {
+     "t": 323.31,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.04,
+      0.03
+     ],
+     "rot": [
+      -80,
+      180,
+      0
+     ]
+    },
+    {
+     "t": 333.18,
+     "visible": false
+    },
+    {
+     "t": 341.89,
+     "attach": "protagonist.handR",
+     "at": [
+      0.0,
+      -0.04,
+      0.03
+     ],
+     "rot": [
+      -20,
+      180,
+      0
+     ]
+    },
+    {
+     "t": 344.19,
+     "visible": false
+    }
+   ]
+  },
+  "bucket": {
+   "shape": "box",
+   "color": "#2563eb",
+   "keys": [
+    {
+     "t": 0,
+     "at": [
+      -11.5,
+      29.3,
+      -30.6
+     ]
+    },
+    {
+     "t": 420.5,
+     "attach": "rebecca.handR",
+     "at": [
+      0.0,
+      -0.18,
+      0.0
+     ],
+     "rot": [
+      0,
+      0,
+      0
+     ]
+    }
+   ]
+  }
+ },
+ "initialState": {
+  "coffee.on": true,
+  "ampel.ped": "red",
+  "traffic.flow": 1,
+  "leash": "held"
+ },
+ "events": [
+  {
+   "type": "light",
+   "t": 0,
+   "preset": "street_morning",
+   "blend": 0.1
+  },
+  {
+   "type": "state",
+   "t": 0,
+   "key": "traffic.flow",
+   "value": 1
+  },
+  {
+   "type": "state",
+   "t": 0,
+   "key": "ampel.ped",
+   "value": "red"
+  },
+  {
+   "type": "state",
+   "t": 0,
+   "key": "coffee.on",
+   "value": true
+  },
+  {
+   "type": "state",
+   "t": 0,
+   "key": "leash",
+   "value": "held"
+  },
+  {
+   "type": "state",
+   "t": 0,
+   "key": "black_sedan.occupants",
+   "value": 1
+  },
+  {
+   "type": "state",
+   "t": 0,
+   "key": "ceo.stain",
+   "value": false
+  },
+  {
+   "type": "sound",
+   "t": 0,
+   "id": "music_intro",
+   "dur": 30,
+   "volume": 0.5,
+   "bus": "music",
+   "file": "music_intro.mp3",
+   "synth": "music",
+   "loop": true,
+   "fadeIn": 2,
+   "fadeOut": 4
+  },
+  {
+   "type": "screen",
+   "t": 0,
+   "id": "ceo_pc",
+   "view": "desktop"
+  },
+  {
+   "type": "sound",
+   "t": 0,
+   "id": "amb_city",
+   "dur": 116.16,
+   "volume": 0.55,
+   "bus": "ambience",
+   "file": "ambience_city.mp3",
+   "synth": "city",
+   "loop": true,
+   "fadeIn": 1.5,
+   "fadeOut": 1.5
+  },
+  {
+   "type": "sound",
+   "t": 0.2,
+   "id": "heartbeat_run",
+   "dur": 18.799999999999997,
+   "volume": 0.35,
+   "bus": "sfx",
+   "synth": "heartbeat",
+   "loop": true,
+   "fadeIn": 1,
+   "fadeOut": 3
+  },
+  {
+   "type": "subtitle",
+   "t": 0.8,
+   "dur": 1.68,
+   "style": "thought",
+   "text": "Gleich bei der Arbeit …"
+  },
+  {
+   "type": "subtitle",
+   "t": 3.6,
+   "dur": 7.27,
+   "style": "narration",
+   "text": "Mit verschwitzten Designerjeans und weißem Hemd lief ich um den letzten Block, um das Bürogebäude meiner Arbeitsstelle zu erreichen."
+  },
+  {
+   "type": "subtitle",
+   "t": 14.4,
+   "dur": 2.5,
+   "style": "thought",
+   "text": "Pünktlichkeit ist echt nicht mein Ding."
+  },
+  {
+   "type": "sound",
+   "t": 16.7,
+   "id": "car_pass",
+   "dur": 7,
+   "volume": 0.9,
+   "bus": "sfx",
+   "file": "car_pass.mp3",
+   "synth": "car"
+  },
+  {
+   "type": "light",
+   "t": 17.2,
+   "preset": "street_letter",
+   "blend": 4
+  },
+  {
+   "type": "subtitle",
+   "t": 17.5,
+   "dur": 7.27,
+   "style": "narration",
+   "text": "Im Augenwinkel nahm ich wahr, wie jemand aus einem Auto einen Brief warf, der nur wenige Zentimeter neben mir auf dem Boden segelte."
+  },
+  {
+   "type": "sound",
+   "t": 21.25,
+   "id": "letter_land",
+   "dur": 0.8,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "papers"
+  },
+  {
+   "type": "subtitle",
+   "t": 24.2,
+   "dur": 2.55,
+   "style": "thought",
+   "text": "Wieso steht da mein Name? Ohne Absender?"
+  },
+  {
+   "type": "sound",
+   "t": 26.85,
+   "id": "paper",
+   "dur": 1.2,
+   "volume": 0.4,
+   "bus": "sfx",
+   "synth": "papers"
+  },
+  {
+   "type": "subtitle",
+   "t": 26.95,
+   "dur": 3.59,
+   "style": "narration",
+   "text": "Verwundert öffnete ich den Brief. Staunend las ich die ersten Worte."
+  },
+  {
+   "type": "sound",
+   "t": 27.75,
+   "id": "music_letter",
+   "dur": 59.23,
+   "volume": 0.55,
+   "bus": "music",
+   "file": "music_letter.mp3",
+   "synth": "drone",
+   "loop": true,
+   "fadeIn": 3,
+   "fadeOut": 3
+  },
+  {
+   "type": "fx",
+   "t": 28.75,
+   "fx": "letterGlow",
+   "dur": 200
+  },
+  {
+   "type": "sound",
+   "t": 28.75,
+   "id": "glitch1",
+   "dur": 54.23,
+   "volume": 0.35,
+   "bus": "sfx",
+   "synth": "glitch",
+   "loop": true,
+   "fadeIn": 2,
+   "fadeOut": 2
+  },
+  {
+   "type": "subtitle",
+   "t": 29.95,
+   "dur": 4.18,
+   "style": "letter",
+   "text": "Zu dieser Zeitepoche kann ich meinen Körper noch nicht in diese Welt materialisieren."
+  },
+  {
+   "type": "subtitle",
+   "t": 34.33,
+   "dur": 2.41,
+   "style": "letter",
+   "text": "Deshalb kontaktiere ich dich auf dem Postweg."
+  },
+  {
+   "type": "subtitle",
+   "t": 36.94,
+   "dur": 4.13,
+   "style": "letter",
+   "text": "Ich komme aus einer Zeit, in der Datenströme unabhängig von der Zeit fließen können."
+  },
+  {
+   "type": "subtitle",
+   "t": 41.27,
+   "dur": 4.09,
+   "style": "letter",
+   "text": "Nur aus diesem Grund ist es möglich, dass du diesen Brief nun in den Händen hältst."
+  },
+  {
+   "type": "subtitle",
+   "t": 45.56,
+   "dur": 2.55,
+   "style": "letter",
+   "text": "Warum habe ich mich für den Postweg entschieden?"
+  },
+  {
+   "type": "subtitle",
+   "t": 48.31,
+   "dur": 3.34,
+   "style": "letter",
+   "text": "Wir alle sind in Gefahr. Du kennst die Nachrichten aus dem Valley."
+  },
+  {
+   "type": "subtitle",
+   "t": 51.85,
+   "dur": 3.08,
+   "style": "letter",
+   "text": "Du erlebst die Spaltung der Gesellschaft gerade hautnah mit."
+  },
+  {
+   "type": "subtitle",
+   "t": 55.13,
+   "dur": 3.56,
+   "style": "letter",
+   "text": "Durch diesen Brief können wir den Verlauf der Zeitgeschichte verändern."
+  },
+  {
+   "type": "subtitle",
+   "t": 58.89,
+   "dur": 3.61,
+   "style": "letter",
+   "text": "Er bewahrt die Menschheit vor einer größeren Katastrophe aus dem Valley."
+  },
+  {
+   "type": "subtitle",
+   "t": 62.7,
+   "dur": 2.37,
+   "style": "letter",
+   "text": "Warum kann ich das mit Sicherheit behaupten?"
+  },
+  {
+   "type": "subtitle",
+   "t": 65.27,
+   "dur": 3.21,
+   "style": "letter",
+   "text": "Weil ich ihn vor 176 Jahren selbst in den Händen gehalten habe."
+  },
+  {
+   "type": "subtitle",
+   "t": 68.68,
+   "dur": 1.58,
+   "style": "letter",
+   "text": "Ich werde es dir beweisen."
+  },
+  {
+   "type": "subtitle",
+   "t": 70.46,
+   "dur": 2.94,
+   "style": "letter",
+   "text": "Schau auf die Ampel. Du siehst eine Dame mit einem Husky."
+  },
+  {
+   "type": "subtitle",
+   "t": 73.6,
+   "dur": 2.19,
+   "style": "letter",
+   "text": "Der Husky wird sich von der Leine lösen."
+  },
+  {
+   "type": "subtitle",
+   "t": 75.99,
+   "dur": 5.06,
+   "style": "letter",
+   "text": "Geh ins Gebäude und fahr auf die 8. Links neben dem Aufzug sind keine Kameras. Dort liest du dann weiter."
+  },
+  {
+   "type": "subtitle",
+   "t": 81.25,
+   "dur": 1.53,
+   "style": "letter",
+   "text": "Und nun genieße die Show."
+  },
+  {
+   "type": "light",
+   "t": 83.18,
+   "preset": "street_show",
+   "blend": 3
+  },
+  {
+   "type": "sound",
+   "t": 83.18,
+   "id": "tension_show",
+   "dur": 30.18,
+   "volume": 0.5,
+   "bus": "music",
+   "synth": "tension",
+   "loop": true,
+   "fadeIn": 2,
+   "fadeOut": 3
+  },
+  {
+   "type": "subtitle",
+   "t": 83.48,
+   "dur": 4.65,
+   "style": "narration",
+   "text": "Ich erstarrte, als an der Ampel eine Frau mit rotem Mantel auf den Knopf drückte."
+  },
+  {
+   "type": "sound",
+   "t": 84.08,
+   "id": "button_beep",
+   "dur": 0.3,
+   "volume": 0.6,
+   "bus": "sfx",
+   "synth": "beep"
+  },
+  {
+   "type": "state",
+   "t": 84.18,
+   "key": "ampel.btn",
+   "value": true
+  },
+  {
+   "type": "subtitle",
+   "t": 87.88,
+   "dur": 2.6,
+   "style": "narration",
+   "text": "An der Leine … Ein Husky."
+  },
+  {
+   "type": "subtitle",
+   "t": 90.58,
+   "dur": 1.4,
+   "style": "thought",
+   "text": "Ich schluckte."
+  },
+  {
+   "type": "subtitle",
+   "t": 92.08,
+   "dur": 5.18,
+   "style": "narration",
+   "text": "Als die Frau sich umschaute, um zu sehen, ob sie bei Rot über die Ampel gehen könne, riss sich der Husky los."
+  },
+  {
+   "type": "sound",
+   "t": 94.38,
+   "id": "heartbeat_show",
+   "dur": 10,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "heartbeat",
+   "loop": true,
+   "fadeIn": 0.5,
+   "fadeOut": 2
+  },
+  {
+   "type": "state",
+   "t": 94.78,
+   "key": "leash",
+   "value": "loose"
+  },
+  {
+   "type": "sound",
+   "t": 94.83,
+   "id": "bark",
+   "dur": 1.2,
+   "volume": 0.9,
+   "bus": "sfx",
+   "file": "husky_bark.mp3",
+   "synth": "bark"
+  },
+  {
+   "type": "state",
+   "t": 94.98,
+   "key": "traffic.flow",
+   "value": 0
+  },
+  {
+   "type": "sound",
+   "t": 95.48,
+   "id": "shout",
+   "dur": 0.8,
+   "volume": 0.3,
+   "bus": "sfx",
+   "synth": "whoosh"
+  },
+  {
+   "type": "sound",
+   "t": 95.68,
+   "id": "brakes",
+   "dur": 1.0,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "whoosh"
+  },
+  {
+   "type": "sound",
+   "t": 96.08,
+   "id": "horn",
+   "dur": 1.0,
+   "volume": 0.6,
+   "bus": "sfx",
+   "file": "car_horn.mp3",
+   "synth": "horn"
+  },
+  {
+   "type": "state",
+   "t": 97.78,
+   "key": "leash",
+   "value": "held"
+  },
+  {
+   "type": "subtitle",
+   "t": 98.08,
+   "dur": 4.45,
+   "style": "narration",
+   "text": "Kurz schockiert lief sie brüllend hinterher und packte den Hund an der Leine."
+  },
+  {
+   "type": "state",
+   "t": 102.28,
+   "key": "traffic.flow",
+   "value": 1
+  },
+  {
+   "type": "subtitle",
+   "t": 102.78,
+   "dur": 3.68,
+   "style": "narration",
+   "text": "Ich bekam Gänsehaut. Mit Angstschweiß und Tränen in den Augen."
+  },
+  {
+   "type": "state",
+   "t": 104.78,
+   "key": "ampel.ped",
+   "value": "green"
+  },
+  {
+   "type": "subtitle",
+   "t": 107.18,
+   "dur": 3.58,
+   "style": "narration",
+   "text": "Überwältigt von der Situation befolgte ich ihre Anweisungen."
+  },
+  {
+   "type": "subtitle",
+   "t": 110.86,
+   "dur": 1.5,
+   "style": "thought",
+   "text": "Meinen eigenen?"
+  },
+  {
+   "type": "door",
+   "t": 113.06,
+   "id": "door.entrance",
+   "open": 1,
+   "dur": 0.9
+  },
+  {
+   "type": "sound",
+   "t": 113.06,
+   "id": "door_slide",
+   "dur": 1,
+   "volume": 0.4,
+   "bus": "sfx",
+   "synth": "door"
+  },
+  {
+   "type": "subtitle",
+   "t": 113.06,
+   "dur": 5.93,
+   "style": "narration",
+   "text": "Ich schritt durch das Drehkreuz, grüßte den Empfang wie gewohnt und drückte ungeduldig den Schalter des Aufzugs."
+  },
+  {
+   "type": "light",
+   "t": 114.16,
+   "preset": "lobby",
+   "blend": 2.5
+  },
+  {
+   "type": "state",
+   "t": 114.78,
+   "key": "ampel.ped",
+   "value": "red"
+  },
+  {
+   "type": "sound",
+   "t": 115.16,
+   "id": "amb_office",
+   "dur": 23.1,
+   "volume": 0.35,
+   "bus": "ambience",
+   "file": "ambience_office.mp3",
+   "synth": "office",
+   "loop": true,
+   "fadeIn": 1.0,
+   "fadeOut": 1.0
+  },
+  {
+   "type": "door",
+   "t": 116.26,
+   "id": "door.entrance",
+   "open": 0,
+   "dur": 1.2
+  },
+  {
+   "type": "door",
+   "t": 116.96,
+   "id": "turnstile.mid",
+   "open": 1,
+   "dur": 0.45
+  },
+  {
+   "type": "sound",
+   "t": 116.96,
+   "id": "turnstile",
+   "dur": 0.2,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "click"
+  },
+  {
+   "type": "door",
+   "t": 120.16,
+   "id": "turnstile.mid",
+   "open": 0,
+   "dur": 0.45
+  },
+  {
+   "type": "sound",
+   "t": 127.31,
+   "id": "call_btn",
+   "dur": 0.3,
+   "volume": 0.4,
+   "bus": "sfx",
+   "synth": "beep"
+  },
+  {
+   "type": "subtitle",
+   "t": 127.56,
+   "dur": 2.71,
+   "style": "narration",
+   "text": "Den Brief ließ ich im Jackett verschwinden."
+  },
+  {
+   "type": "subtitle",
+   "t": 130.56,
+   "dur": 4.35,
+   "style": "narration",
+   "text": "Das Warten kam mir wie eine Ewigkeit vor, bis sich die Tür vor mir öffnete."
+  },
+  {
+   "type": "state",
+   "t": 133.16,
+   "key": "black_sedan.occupants",
+   "value": 0
+  },
+  {
+   "type": "sound",
+   "t": 133.56,
+   "id": "ding",
+   "dur": 1.4,
+   "volume": 0.7,
+   "bus": "sfx",
+   "file": "elevator_ding.mp3",
+   "synth": "ding"
+  },
+  {
+   "type": "door",
+   "t": 133.76,
+   "id": "elevator.lobby",
+   "open": 1,
+   "dur": 1.1
+  },
+  {
+   "type": "light",
+   "t": 136.86,
+   "preset": "elevator",
+   "blend": 1.0
+  },
+  {
+   "type": "door",
+   "t": 136.96,
+   "id": "elevator.lobby",
+   "open": 0,
+   "dur": 1.1
+  },
+  {
+   "type": "subtitle",
+   "t": 137.86,
+   "dur": 5.37,
+   "style": "narration",
+   "text": "Im Aufzug tat ich so, als ob ich meine Schuhe binde, dabei lockerte ich lediglich die Schleife."
+  },
+  {
+   "type": "sound",
+   "t": 137.96,
+   "id": "elev_hum",
+   "dur": 7.4,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "elevator",
+   "fadeIn": 0.4,
+   "fadeOut": 0.4
+  },
+  {
+   "type": "light",
+   "t": 145.26,
+   "preset": "office_morning",
+   "blend": 1.5
+  },
+  {
+   "type": "sound",
+   "t": 145.26,
+   "id": "ding2",
+   "dur": 1.4,
+   "volume": 0.6,
+   "bus": "sfx",
+   "file": "elevator_ding.mp3",
+   "synth": "ding"
+  },
+  {
+   "type": "sound",
+   "t": 145.26,
+   "id": "amb_office",
+   "dur": 295.64,
+   "volume": 0.5,
+   "bus": "ambience",
+   "file": "ambience_office.mp3",
+   "synth": "office",
+   "loop": true,
+   "fadeIn": 1.0,
+   "fadeOut": 1.0
+  },
+  {
+   "type": "door",
+   "t": 145.46,
+   "id": "elevator.f8",
+   "open": 1,
+   "dur": 1.1
+  },
+  {
+   "type": "subtitle",
+   "t": 145.86,
+   "dur": 6.87,
+   "style": "narration",
+   "text": "Als sich die Tür im achten Stock öffnete, schritt ich hinaus und tat so, als würde ich mich über meinen sich lösenden Schnürsenkel wundern."
+  },
+  {
+   "type": "door",
+   "t": 148.86,
+   "id": "elevator.f8",
+   "open": 0,
+   "dur": 1.1
+  },
+  {
+   "type": "subtitle",
+   "t": 150.46,
+   "dur": 7.57,
+   "style": "narration",
+   "text": "Ich kannte die Kameras in- und auswendig, weshalb ich bewusst einen Schritt nach links machte, um den Brief aus der linken Jackentasche zu ziehen und weiterzulesen."
+  },
+  {
+   "type": "sound",
+   "t": 152.96,
+   "id": "glitch2",
+   "dur": 33.64,
+   "volume": 0.3,
+   "bus": "sfx",
+   "synth": "glitch",
+   "loop": true,
+   "fadeIn": 2,
+   "fadeOut": 2
+  },
+  {
+   "type": "sound",
+   "t": 152.96,
+   "id": "music_mission",
+   "dur": 36.64,
+   "volume": 0.55,
+   "bus": "music",
+   "file": "music_mission.mp3",
+   "synth": "drone",
+   "loop": true,
+   "fadeIn": 3,
+   "fadeOut": 3
+  },
+  {
+   "type": "fx",
+   "t": 153.26,
+   "fx": "letterGlow",
+   "dur": 200
+  },
+  {
+   "type": "subtitle",
+   "t": 154.56,
+   "dur": 2.46,
+   "style": "letter",
+   "text": "Um 10:30 Uhr wird der CEO sein Büro verlassen."
+  },
+  {
+   "type": "subtitle",
+   "t": 157.17,
+   "dur": 5.19,
+   "style": "letter",
+   "text": "Deine Aufgabe ist es, hinter ihm hindurchzuhuschen und nach einem Dokument der Firma ImmunSafe AG zu suchen."
+  },
+  {
+   "type": "subtitle",
+   "t": 162.51,
+   "dur": 1.36,
+   "style": "letter",
+   "text": "Es wird nicht leicht."
+  },
+  {
+   "type": "subtitle",
+   "t": 164.02,
+   "dur": 4.49,
+   "style": "letter",
+   "text": "Das Ziel der Firma ist es, in benachbarten Ländern Zusätze in Getreideprodukte hinzuzufügen,"
+  },
+  {
+   "type": "subtitle",
+   "t": 168.66,
+   "dur": 4.4,
+   "style": "letter",
+   "text": "die die Immunreaktion der Menschen herunterregulieren und so die Nährstoffaufnahme hemmen."
+  },
+  {
+   "type": "subtitle",
+   "t": 173.21,
+   "dur": 3.65,
+   "style": "letter",
+   "text": "Die vermeintlichen Nahrungsergänzungsmittel sind das einzige Gegenmittel."
+  },
+  {
+   "type": "subtitle",
+   "t": 177.01,
+   "dur": 4.44,
+   "style": "letter",
+   "text": "Schalte im Vorbeigehen die Kaffeemaschine aus und stelle seine Lieblingstasse in die Spüle."
+  },
+  {
+   "type": "subtitle",
+   "t": 181.6,
+   "dur": 1.4,
+   "style": "letter",
+   "text": "Achte auf die Kameras!"
+  },
+  {
+   "type": "subtitle",
+   "t": 183.15,
+   "dur": 1.84,
+   "style": "letter",
+   "text": "Das verschafft dir vier Minuten."
+  },
+  {
+   "type": "subtitle",
+   "t": 185.14,
+   "dur": 1.31,
+   "style": "letter",
+   "text": "Nun schnell! Weiter!"
+  },
+  {
+   "type": "fx",
+   "t": 186.9,
+   "fx": "flash",
+   "dur": 0.1
+  },
+  {
+   "type": "subtitle",
+   "t": 187.1,
+   "dur": 5.85,
+   "style": "narration",
+   "text": "Ich richtete mich erneut auf, blickte auf die Uhr – 10:28 Uhr – und lief den Gang hinunter, um die Glastür zu öffnen."
+  },
+  {
+   "type": "sound",
+   "t": 187.8,
+   "id": "amb_office_tension",
+   "dur": 6,
+   "volume": 0.0,
+   "bus": "music",
+   "synth": "tension"
+  },
+  {
+   "type": "door",
+   "t": 189.6,
+   "id": "door.glass8",
+   "open": 1,
+   "dur": 0.7
+  },
+  {
+   "type": "subtitle",
+   "t": 190.6,
+   "dur": 1.5,
+   "style": "dialog",
+   "text": "Hey Rebecca!",
+   "speaker": "protagonist"
+  },
+  {
+   "type": "subtitle",
+   "t": 192.8,
+   "dur": 3.68,
+   "style": "dialog",
+   "text": "Wahnsinns-Begrüßung wie jeden Morgen. Wie war dein Wochenende?",
+   "speaker": "rebecca"
+  },
+  {
+   "type": "door",
+   "t": 193.2,
+   "id": "door.glass8",
+   "open": 0,
+   "dur": 1.2
+  },
+  {
+   "type": "subtitle",
+   "t": 196.58,
+   "dur": 1.94,
+   "style": "dialog",
+   "text": "Du kennst die Antwort, oder?",
+   "speaker": "protagonist"
+  },
+  {
+   "type": "subtitle",
+   "t": 198.62,
+   "dur": 3.53,
+   "style": "thought",
+   "text": "Ob sie wohl meine leicht überspielte Unsicherheit bemerkte?"
+  },
+  {
+   "type": "subtitle",
+   "t": 202.25,
+   "dur": 1.58,
+   "style": "dialog",
+   "text": "Ja, ja, paradiesisch.",
+   "speaker": "rebecca"
+  },
+  {
+   "type": "subtitle",
+   "t": 203.93,
+   "dur": 1.6,
+   "style": "dialog",
+   "text": "Bis später.",
+   "speaker": "rebecca"
+  },
+  {
+   "type": "subtitle",
+   "t": 205.33,
+   "dur": 4.65,
+   "style": "narration",
+   "text": "Ich lief den Bürokorridor entlang, schaute unauffällig auf die Uhr – 10:29 Uhr – und lief weiter."
+  },
+  {
+   "type": "subtitle",
+   "t": 208.93,
+   "dur": 5.83,
+   "style": "narration",
+   "text": "Ich schluckte, lief noch etwas schneller … dann lief ich Robert in die Arme, der gerade mit einem Papierstapel sein Büro verließ."
+  },
+  {
+   "type": "door",
+   "t": 210.23,
+   "id": "door.robert",
+   "open": 1,
+   "dur": 0.5
+  },
+  {
+   "type": "fx",
+   "t": 211.53,
+   "fx": "papers",
+   "at": "f8.papers",
+   "dur": 34
+  },
+  {
+   "type": "sound",
+   "t": 211.53,
+   "id": "thud",
+   "dur": 0.5,
+   "volume": 0.9,
+   "bus": "sfx",
+   "synth": "thud"
+  },
+  {
+   "type": "sound",
+   "t": 211.58,
+   "id": "papers_fly",
+   "dur": 2.4,
+   "volume": 0.8,
+   "bus": "sfx",
+   "synth": "papers"
+  },
+  {
+   "type": "subtitle",
+   "t": 213.13,
+   "dur": 2.29,
+   "style": "dialog",
+   "text": "Die Sortierarbeit von zwei Stunden!",
+   "speaker": "robert"
+  },
+  {
+   "type": "subtitle",
+   "t": 215.52,
+   "dur": 2.91,
+   "style": "dialog",
+   "text": "Du bist doch nicht gerade erst gekommen, oder?!",
+   "speaker": "robert"
+  },
+  {
+   "type": "subtitle",
+   "t": 218.53,
+   "dur": 4.23,
+   "style": "thought",
+   "text": "Schweiß tropfte mir von der Stirn. Wie komme ich aus dieser Situation? Denk nach …"
+  },
+  {
+   "type": "subtitle",
+   "t": 222.86,
+   "dur": 4.6,
+   "style": "dialog",
+   "text": "Ich war im Homeoffice und habe einen wichtigen Kunden an Land gezogen. Das eilt.",
+   "speaker": "protagonist"
+  },
+  {
+   "type": "subtitle",
+   "t": 227.56,
+   "dur": 1.94,
+   "style": "dialog",
+   "text": "Ich komme dir gleich helfen.",
+   "speaker": "protagonist"
+  },
+  {
+   "type": "light",
+   "t": 229.6,
+   "preset": "office_tension",
+   "blend": 2
+  },
+  {
+   "type": "subtitle",
+   "t": 229.8,
+   "dur": 7.5,
+   "style": "narration",
+   "text": "Der Game Space: zwei Kickertische, zwei Konsolen, eine Dartscheibe. Daneben die graphitfarbene Küchenzeile mit Cafémaschine, umrahmt von Pflanzen und heller Holzvertäfelung."
+  },
+  {
+   "type": "subtitle",
+   "t": 235.8,
+   "dur": 4.7,
+   "style": "narration",
+   "text": "Bog links in die Caféküche ab, um mit dem Ellenbogen unauffällig die Kaffeemaschine auszuschalten."
+  },
+  {
+   "type": "state",
+   "t": 236.9,
+   "key": "coffee.on",
+   "value": false
+  },
+  {
+   "type": "sound",
+   "t": 236.9,
+   "id": "coffee_off",
+   "dur": 0.2,
+   "volume": 0.7,
+   "bus": "sfx",
+   "synth": "click"
+  },
+  {
+   "type": "state",
+   "t": 237.2,
+   "key": "coffee.rinse",
+   "value": true
+  },
+  {
+   "type": "sound",
+   "t": 237.2,
+   "id": "coffee_rinse",
+   "dur": 6,
+   "volume": 0.35,
+   "bus": "sfx",
+   "synth": "whoosh"
+  },
+  {
+   "type": "subtitle",
+   "t": 238.6,
+   "dur": 3.59,
+   "style": "narration",
+   "text": "Zum Glück stand die Tasse des Chefs ganz vorne im offenen Holzregal."
+  },
+  {
+   "type": "door",
+   "t": 241.13,
+   "id": "door.robert",
+   "open": 0,
+   "dur": 0.9
+  },
+  {
+   "type": "subtitle",
+   "t": 243.0,
+   "dur": 5.79,
+   "style": "narration",
+   "text": "Als Alibi nahm ich ein Glas aus einem weiteren Holzregal, füllte es mit Wasser und ließ die Cafétasse des Chefs volllaufen."
+  },
+  {
+   "type": "sound",
+   "t": 246.1,
+   "id": "water",
+   "dur": 2.4,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "spill"
+  },
+  {
+   "type": "subtitle",
+   "t": 248.3,
+   "dur": 2.14,
+   "style": "thought",
+   "text": "Na, der wird an die Decke gehen."
+  },
+  {
+   "type": "subtitle",
+   "t": 252.0,
+   "dur": 5.35,
+   "style": "narration",
+   "text": "Schließlich tat ich so, als ob ich das Büro des CFO betrat, wodurch ich aus dem Blickfeld der Kameras verschwand."
+  },
+  {
+   "type": "subtitle",
+   "t": 258.9,
+   "dur": 5.2,
+   "style": "narration",
+   "text": "An der Wand robbte ich mich in Richtung Pflanze, um bloß nicht erneut von der Kamera erfasst zu werden."
+  },
+  {
+   "type": "subtitle",
+   "t": 262.6,
+   "dur": 5.44,
+   "style": "narration",
+   "text": "Etwas vom innerlichen Druck überwältigt, checkte ich mit einem tiefen Atemzug meine Uhr. 10:29 Uhr und 56 Sekunden."
+  },
+  {
+   "type": "subtitle",
+   "t": 268.14,
+   "dur": 6.18,
+   "style": "narration",
+   "text": "Ich schluckte und versuchte, meinen Atem zu kontrollieren, als ich bemerkte, dass mein Chef sich im Telefongespräch der Tür näherte."
+  },
+  {
+   "type": "sound",
+   "t": 271.94,
+   "id": "door_handle",
+   "dur": 0.2,
+   "volume": 0.8,
+   "bus": "sfx",
+   "synth": "click"
+  },
+  {
+   "type": "door",
+   "t": 272.04,
+   "id": "door.ceo",
+   "open": 1,
+   "dur": 0.8
+  },
+  {
+   "type": "subtitle",
+   "t": 272.44,
+   "dur": 2.09,
+   "style": "dialog",
+   "text": "Ich denke, wir kommen zusammen.",
+   "speaker": "ceo"
+  },
+  {
+   "type": "subtitle",
+   "t": 273.44,
+   "dur": 4.87,
+   "style": "narration",
+   "text": "Kein Meter trennte uns voneinander, als ich unauffällig durch die Tür huschte, bevor sie sich schloss."
+  },
+  {
+   "type": "door",
+   "t": 275.34,
+   "id": "door.ceo",
+   "open": 0,
+   "dur": 0.7
+  },
+  {
+   "type": "light",
+   "t": 275.44,
+   "preset": "ceo_office",
+   "blend": 2
+  },
+  {
+   "type": "subtitle",
+   "t": 275.54,
+   "dur": 3.59,
+   "style": "narration",
+   "text": "Ich griff in die Hosentasche und suchte nach dem USB-Stick im Brief."
+  },
+  {
+   "type": "subtitle",
+   "t": 279.24,
+   "dur": 4.57,
+   "style": "thought",
+   "text": "Warum hatte ich ihn nicht in die andere Jackentasche getan? Ich rollte innerlich mit den Augen."
+  },
+  {
+   "type": "screen",
+   "t": 282.44,
+   "id": "ceo_pc",
+   "view": "desktop"
+  },
+  {
+   "type": "subtitle",
+   "t": 282.74,
+   "dur": 3.13,
+   "style": "narration",
+   "text": "Am Rechner angekommen, sah ich zahllose geöffnete Fenster."
+  },
+  {
+   "type": "subtitle",
+   "t": 285.97,
+   "dur": 3.69,
+   "style": "thought",
+   "text": "Okay, easy. File Explorer öffnen und „ImmunSafe“ in die Suchzeile eingeben."
+  },
+  {
+   "type": "screen",
+   "t": 287.66,
+   "id": "ceo_pc",
+   "view": "explorer",
+   "query": "ImmunSafe",
+   "result": "Kein Treffer.",
+   "typing": 8
+  },
+  {
+   "type": "sound",
+   "t": 287.66,
+   "id": "typing1",
+   "dur": 1.5,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "typing"
+  },
+  {
+   "type": "subtitle",
+   "t": 289.86,
+   "dur": 2.65,
+   "style": "thought",
+   "text": "Kein Treffer. Mist. – Vielleicht „Weizen“?"
+  },
+  {
+   "type": "screen",
+   "t": 290.91,
+   "id": "ceo_pc",
+   "view": "explorer",
+   "query": "Weizen",
+   "result": "Kein Treffer.",
+   "typing": 7
+  },
+  {
+   "type": "sound",
+   "t": 290.91,
+   "id": "typing2",
+   "dur": 1.0,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "typing"
+  },
+  {
+   "type": "subtitle",
+   "t": 292.91,
+   "dur": 3.94,
+   "style": "narration",
+   "text": "Das ist es auch nicht. Was mache ich nur? Ich raufte mir die Haare."
+  },
+  {
+   "type": "subtitle",
+   "t": 296.95,
+   "dur": 2.04,
+   "style": "thought",
+   "text": "Das kann doch nicht wahr sein!"
+  },
+  {
+   "type": "screen",
+   "t": 298.69,
+   "id": "ceo_pc",
+   "view": "mail",
+   "query": "ImmunSafe",
+   "result": "Keine Ergebnisse.",
+   "typing": 9
+  },
+  {
+   "type": "sound",
+   "t": 298.69,
+   "id": "typing3",
+   "dur": 1.3,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "typing"
+  },
+  {
+   "type": "subtitle",
+   "t": 299.09,
+   "dur": 4.28,
+   "style": "narration",
+   "text": "Ich schloss das Fenster und checkte meine Mails. Auch hier brachten dieselben Begriffe keine Resultate."
+  },
+  {
+   "type": "subtitle",
+   "t": 303.47,
+   "dur": 2.8,
+   "style": "narration",
+   "text": "Meine schwitzigen Finger durchnässten die Tastatur."
+  },
+  {
+   "type": "subtitle",
+   "t": 306.37,
+   "dur": 3.9,
+   "style": "narration",
+   "text": "Als ich die Uhrzeit am Bildschirmrand sah, bemerkte ich, dass noch eine Minute vergangen war."
+  },
+  {
+   "type": "subtitle",
+   "t": 310.37,
+   "dur": 2.96,
+   "style": "thought",
+   "text": "Wie würde man etwas Inoffizielles kommunizieren?"
+  },
+  {
+   "type": "screen",
+   "t": 312.73,
+   "id": "ceo_pc",
+   "view": "morse"
+  },
+  {
+   "type": "subtitle",
+   "t": 313.43,
+   "dur": 4.77,
+   "style": "narration",
+   "text": "Ich schaute mir die offenen Websites an und fand einen Morsezeichenübersetzer. Der Inhalt der Seite war jedoch leer."
+  },
+  {
+   "type": "sound",
+   "t": 318.2,
+   "id": "coffee_brew",
+   "dur": 4,
+   "volume": 0.25,
+   "bus": "sfx",
+   "synth": "whoosh"
+  },
+  {
+   "type": "subtitle",
+   "t": 318.3,
+   "dur": 2.2,
+   "style": "thought",
+   "text": "Ein Verlauf? – Gibt es nicht."
+  },
+  {
+   "type": "screen",
+   "t": 320.3,
+   "id": "ceo_pc",
+   "view": "morse",
+   "query": "Strg + Z",
+   "result": "– es erscheint nichts –",
+   "typing": 6
+  },
+  {
+   "type": "subtitle",
+   "t": 320.6,
+   "dur": 3.01,
+   "style": "thought",
+   "text": "Strg + Z – es erscheint nichts. Jetzt wird's eng."
+  },
+  {
+   "type": "sound",
+   "t": 323.61,
+   "id": "heartbeat_pc",
+   "dur": 10,
+   "volume": 0.45,
+   "bus": "sfx",
+   "synth": "heartbeat",
+   "loop": true,
+   "fadeIn": 1,
+   "fadeOut": 1
+  },
+  {
+   "type": "subtitle",
+   "t": 323.71,
+   "dur": 3.52,
+   "style": "narration",
+   "text": "Ich nahm mein Handy zur Hand und googelte nach den häufigsten Wörtern im Deutschen."
+  },
+  {
+   "type": "subtitle",
+   "t": 327.33,
+   "dur": 4.05,
+   "style": "narration",
+   "text": "Ich rief die Seite auf meinem Handy auf, um bloß keine Spuren zu hinterlassen, und gab „der“ ein."
+  },
+  {
+   "type": "subtitle",
+   "t": 331.48,
+   "dur": 3.4,
+   "style": "letter",
+   "text": "„der“ im Morsezeichen:   d = − · ·    e = ·    r = · − ·"
+  },
+  {
+   "type": "screen",
+   "t": 333.88,
+   "id": "ceo_pc",
+   "view": "mail",
+   "query": "-.. . .-.",
+   "result": "TREFFER",
+   "typing": 4
+  },
+  {
+   "type": "sound",
+   "t": 333.88,
+   "id": "typing4",
+   "dur": 2.2,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "typing"
+  },
+  {
+   "type": "subtitle",
+   "t": 333.98,
+   "dur": 3.11,
+   "style": "narration",
+   "text": "Als ich diese Zeichenfolge im E-Mail-Programm suchte …"
+  },
+  {
+   "type": "sound",
+   "t": 336.73,
+   "id": "music_hit",
+   "dur": 20,
+   "volume": 0.45,
+   "bus": "music",
+   "synth": "music",
+   "loop": true,
+   "fadeIn": 1.5,
+   "fadeOut": 3
+  },
+  {
+   "type": "sound",
+   "t": 336.83,
+   "id": "hit",
+   "dur": 1.4,
+   "volume": 0.6,
+   "bus": "sfx",
+   "synth": "ding"
+  },
+  {
+   "type": "subtitle",
+   "t": 337.19,
+   "dur": 2.0,
+   "style": "thought",
+   "text": "TREFFER"
+  },
+  {
+   "type": "subtitle",
+   "t": 339.29,
+   "dur": 4.31,
+   "style": "narration",
+   "text": "Hastig steckte ich den USB-Stick in das Gerät, kopierte die E-Mail, machte parallel mit dem Handy ein Foto,"
+  },
+  {
+   "type": "screen",
+   "t": 339.49,
+   "id": "ceo_pc",
+   "view": "copy"
+  },
+  {
+   "type": "sound",
+   "t": 343.09,
+   "id": "shutter",
+   "dur": 0.2,
+   "volume": 0.9,
+   "bus": "sfx",
+   "synth": "click"
+  },
+  {
+   "type": "subtitle",
+   "t": 343.7,
+   "dur": 5.2,
+   "style": "narration",
+   "text": "löschte die Suchbegriffe im E-Mail-Programm und im Explorer, entfernte den Stick über „Sicheres Entfernen“ und checkte die Uhrzeit."
+  },
+  {
+   "type": "screen",
+   "t": 345.1,
+   "id": "ceo_pc",
+   "view": "desktop"
+  },
+  {
+   "type": "screen",
+   "t": 346.3,
+   "id": "ceo_pc",
+   "view": "eject"
+  },
+  {
+   "type": "screen",
+   "t": 348.5,
+   "id": "ceo_pc",
+   "view": "desktop"
+  },
+  {
+   "type": "screen",
+   "t": 348.7,
+   "id": "ceo_pc",
+   "view": "desktop"
+  },
+  {
+   "type": "subtitle",
+   "t": 349.1,
+   "dur": 3.87,
+   "style": "narration",
+   "text": "Als ich leise zur Tür schritt, hörte ich meinen Chef schon entgegenkommen."
+  },
+  {
+   "type": "subtitle",
+   "t": 351.0,
+   "dur": 5.5,
+   "style": "narration",
+   "text": "Er hatte den Kopf auf die Schulter gelegt, um das Telefon dort einzuspannen, und hielt die Cafétasse in der anderen Hand."
+  },
+  {
+   "type": "door",
+   "t": 354.6,
+   "id": "door.ceo",
+   "open": 1,
+   "dur": 0.7
+  },
+  {
+   "type": "light",
+   "t": 354.9,
+   "preset": "hiding",
+   "blend": 1.5
+  },
+  {
+   "type": "sound",
+   "t": 354.9,
+   "id": "tension_hide",
+   "dur": 42.15,
+   "volume": 0.55,
+   "bus": "music",
+   "file": "music_tension.mp3",
+   "synth": "tension",
+   "loop": true,
+   "fadeIn": 1,
+   "fadeOut": 2
+  },
+  {
+   "type": "door",
+   "t": 356.5,
+   "id": "door.ceo",
+   "open": 0.55,
+   "dur": 1.0
+  },
+  {
+   "type": "fx",
+   "t": 356.7,
+   "fx": "spill",
+   "at": "f8.spill",
+   "dur": 400
+  },
+  {
+   "type": "sound",
+   "t": 356.7,
+   "id": "spill",
+   "dur": 1.2,
+   "volume": 0.8,
+   "bus": "sfx",
+   "synth": "spill"
+  },
+  {
+   "type": "state",
+   "t": 356.8,
+   "key": "ceo.stain",
+   "value": true
+  },
+  {
+   "type": "subtitle",
+   "t": 357.1,
+   "dur": 2.24,
+   "style": "dialog",
+   "text": "DAS KANN ES JETZT DOCH NICHT SEIN!",
+   "speaker": "ceo"
+  },
+  {
+   "type": "subtitle",
+   "t": 359.44,
+   "dur": 2.24,
+   "style": "dialog",
+   "text": "Ich ruf dich gleich zurück, Peter.",
+   "speaker": "ceo"
+  },
+  {
+   "type": "sound",
+   "t": 361.68,
+   "id": "mumble",
+   "dur": 14,
+   "volume": 0.25,
+   "bus": "sfx",
+   "synth": "office"
+  },
+  {
+   "type": "subtitle",
+   "t": 361.88,
+   "dur": 4.1,
+   "style": "narration",
+   "text": "Ich schluckte und war mir nicht sicher, ob ich nun die Flucht ergreifen sollte."
+  },
+  {
+   "type": "subtitle",
+   "t": 366.08,
+   "dur": 2.24,
+   "style": "thought",
+   "text": "Doch das ist meine einzige Chance."
+  },
+  {
+   "type": "subtitle",
+   "t": 368.42,
+   "dur": 2.6,
+   "style": "narration",
+   "text": "Mein Boss stammelte genervt vor sich hin."
+  },
+  {
+   "type": "subtitle",
+   "t": 370.12,
+   "dur": 4.42,
+   "style": "narration",
+   "text": "Bevor er die Küche betrat, entschied ich mich, hinter die Küchenzeile zu huschen."
+  },
+  {
+   "type": "door",
+   "t": 370.82,
+   "id": "door.ceo",
+   "open": 1,
+   "dur": 0.6
+  },
+  {
+   "type": "subtitle",
+   "t": 374.64,
+   "dur": 4.51,
+   "style": "thought",
+   "text": "Geschafft!, jubelte ich innerlich – als ich bemerkte, dass das Stammeln immer näher kam."
+  },
+  {
+   "type": "subtitle",
+   "t": 379.25,
+   "dur": 3.91,
+   "style": "thought",
+   "text": "Was sollte ich tun? Ich hatte keine Möglichkeit. Ich steckte in der Klemme."
+  },
+  {
+   "type": "sound",
+   "t": 383.16,
+   "id": "heartbeat_hide",
+   "dur": 13.89,
+   "volume": 0.55,
+   "bus": "sfx",
+   "synth": "heartbeat",
+   "loop": true,
+   "fadeIn": 1,
+   "fadeOut": 1
+  },
+  {
+   "type": "subtitle",
+   "t": 383.26,
+   "dur": 5.13,
+   "style": "narration",
+   "text": "Ich versuchte, mich noch näher an die Küchenzeile zu pressen, in der Hoffnung, darin verschwinden zu können."
+  },
+  {
+   "type": "subtitle",
+   "t": 388.49,
+   "dur": 1.6,
+   "style": "thought",
+   "text": "Warte mal …"
+  },
+  {
+   "type": "door",
+   "t": 389.79,
+   "id": "cabinet.island",
+   "open": 1,
+   "dur": 0.8
+  },
+  {
+   "type": "subtitle",
+   "t": 390.19,
+   "dur": 1.73,
+   "style": "thought",
+   "text": "Überall Teller … Tassen."
+  },
+  {
+   "type": "door",
+   "t": 392.12,
+   "id": "cabinet.island",
+   "open": 0,
+   "dur": 0.6
+  },
+  {
+   "type": "subtitle",
+   "t": 392.12,
+   "dur": 3.93,
+   "style": "narration",
+   "text": "Innerlich hatte ich schon aufgegeben, als plötzlich ein Wunder geschah."
+  },
+  {
+   "type": "light",
+   "t": 396.05,
+   "preset": "relief",
+   "blend": 2.5
+  },
+  {
+   "type": "sound",
+   "t": 396.05,
+   "id": "music_relief",
+   "dur": 43.65,
+   "volume": 0.45,
+   "bus": "music",
+   "file": "music_relief.mp3",
+   "synth": "music",
+   "loop": true,
+   "fadeIn": 2,
+   "fadeOut": 2
+  },
+  {
+   "type": "subtitle",
+   "t": 396.15,
+   "dur": 2.55,
+   "style": "dialog",
+   "text": "Na, was haben Sie denn da veranstaltet?!",
+   "speaker": "rebecca"
+  },
+  {
+   "type": "subtitle",
+   "t": 398.8,
+   "dur": 1.88,
+   "style": "thought",
+   "text": "Rebecca, du bist ein Engel!"
+  },
+  {
+   "type": "subtitle",
+   "t": 400.78,
+   "dur": 3.68,
+   "style": "narration",
+   "text": "Angesichts der Lage kamen mir fast die Tränen der Dankbarkeit."
+  },
+  {
+   "type": "subtitle",
+   "t": 404.56,
+   "dur": 4.04,
+   "style": "dialog",
+   "text": "Gehen Sie ins Büro, Chef. Ich hole schnell die Putzmittel von drüben.",
+   "speaker": "rebecca"
+  },
+  {
+   "type": "subtitle",
+   "t": 408.8,
+   "dur": 4.23,
+   "style": "narration",
+   "text": "Mein Chef kehrte mürrisch ins Büro zurück und ich folgte Rebecca unauffällig."
+  },
+  {
+   "type": "door",
+   "t": 412.4,
+   "id": "door.ceo",
+   "open": 0,
+   "dur": 0.9
+  },
+  {
+   "type": "subtitle",
+   "t": 417.9,
+   "dur": 5.35,
+   "style": "narration",
+   "text": "Ich hockte mich hinter den Tresen des Empfangs, bis sie schließlich mit den Putzmitteln den Gang Richtung Chef hinunterlief."
+  },
+  {
+   "type": "door",
+   "t": 418.0,
+   "id": "door.closet",
+   "open": 1,
+   "dur": 0.7
+  },
+  {
+   "type": "door",
+   "t": 422.7,
+   "id": "door.closet",
+   "open": 0,
+   "dur": 0.9
+  },
+  {
+   "type": "subtitle",
+   "t": 426.2,
+   "dur": 5.02,
+   "style": "narration",
+   "text": "Innerlich jubelnd kehrte ich zum Aufzug zurück, fuhr in die unterste Etage, ging durch den Eingang."
+  },
+  {
+   "type": "door",
+   "t": 427.5,
+   "id": "door.glass8",
+   "open": 1,
+   "dur": 0.6
+  },
+  {
+   "type": "sound",
+   "t": 429.4,
+   "id": "ding3",
+   "dur": 1.4,
+   "volume": 0.5,
+   "bus": "sfx",
+   "file": "elevator_ding.mp3",
+   "synth": "ding"
+  },
+  {
+   "type": "door",
+   "t": 429.5,
+   "id": "door.glass8",
+   "open": 0,
+   "dur": 1.0
+  },
+  {
+   "type": "door",
+   "t": 429.5,
+   "id": "elevator.f8",
+   "open": 1,
+   "dur": 1.0
+  },
+  {
+   "type": "light",
+   "t": 431.3,
+   "preset": "elevator",
+   "blend": 1.0
+  },
+  {
+   "type": "door",
+   "t": 432.1,
+   "id": "elevator.f8",
+   "open": 0,
+   "dur": 1.0
+  },
+  {
+   "type": "door",
+   "t": 432.9,
+   "id": "door.ceo",
+   "open": 1,
+   "dur": 0.7
+  },
+  {
+   "type": "sound",
+   "t": 433.1,
+   "id": "elev_hum2",
+   "dur": 6.8,
+   "volume": 0.5,
+   "bus": "sfx",
+   "synth": "elevator",
+   "fadeIn": 0.4,
+   "fadeOut": 0.4
+  },
+  {
+   "type": "sound",
+   "t": 439.7,
+   "id": "ding4",
+   "dur": 1.4,
+   "volume": 0.6,
+   "bus": "sfx",
+   "file": "elevator_ding.mp3",
+   "synth": "ding"
+  },
+  {
+   "type": "light",
+   "t": 439.9,
+   "preset": "lobby",
+   "blend": 1.5
+  },
+  {
+   "type": "door",
+   "t": 439.9,
+   "id": "elevator.lobby",
+   "open": 1,
+   "dur": 1.0
+  },
+  {
+   "type": "door",
+   "t": 442.9,
+   "id": "elevator.lobby",
+   "open": 0,
+   "dur": 1.0
+  },
+  {
+   "type": "sound",
+   "t": 444.9,
+   "id": "music_end",
+   "dur": 35.44,
+   "volume": 0.5,
+   "bus": "music",
+   "file": "music_end.mp3",
+   "synth": "music",
+   "loop": true,
+   "fadeIn": 3,
+   "fadeOut": 4
+  },
+  {
+   "type": "door",
+   "t": 445.5,
+   "id": "turnstile.mid",
+   "open": 1,
+   "dur": 0.45
+  },
+  {
+   "type": "door",
+   "t": 447.7,
+   "id": "turnstile.mid",
+   "open": 0,
+   "dur": 0.45
+  },
+  {
+   "type": "sound",
+   "t": 448.0,
+   "id": "amb_city",
+   "dur": 32.34,
+   "volume": 0.55,
+   "bus": "ambience",
+   "file": "ambience_city.mp3",
+   "synth": "city",
+   "loop": true,
+   "fadeIn": 1.5,
+   "fadeOut": 1.5
+  },
+  {
+   "type": "door",
+   "t": 448.9,
+   "id": "door.entrance",
+   "open": 1,
+   "dur": 0.8
+  },
+  {
+   "type": "light",
+   "t": 449.1,
+   "preset": "street_finale",
+   "blend": 2.0
+  },
+  {
+   "type": "subtitle",
+   "t": 450.1,
+   "dur": 6.48,
+   "style": "narration",
+   "text": "Ein Mann im schwarzen Anzug mit Sonnenbrille stand vor einem schwarzen Mercedes in der Parkbucht. Der Verkehr hinter ihm zog nur so vorbei."
+  },
+  {
+   "type": "door",
+   "t": 451.5,
+   "id": "door.entrance",
+   "open": 0,
+   "dur": 1.0
+  },
+  {
+   "type": "subtitle",
+   "t": 454.3,
+   "dur": 2.29,
+   "style": "dialog",
+   "text": "Ich glaube, du hast etwas für mich.",
+   "speaker": "man_black_suit"
+  },
+  {
+   "type": "subtitle",
+   "t": 456.79,
+   "dur": 1.5,
+   "style": "dialog",
+   "text": "Ich glaube auch.",
+   "speaker": "protagonist"
+  },
+  {
+   "type": "subtitle",
+   "t": 458.59,
+   "dur": 2.04,
+   "style": "narration",
+   "text": "Wir schauten uns in die Augen."
+  },
+  {
+   "type": "subtitle",
+   "t": 461.03,
+   "dur": 2.71,
+   "style": "dialog",
+   "text": "Ich wünschte, ich könnte dir mehr verraten.",
+   "speaker": "man_black_suit"
+  },
+  {
+   "type": "subtitle",
+   "t": 464.14,
+   "dur": 3.63,
+   "style": "narration",
+   "text": "… sagte er abschließend, setzte sich ins Auto und fuhr davon."
+  },
+  {
+   "type": "sound",
+   "t": 469.14,
+   "id": "car_door",
+   "dur": 0.5,
+   "volume": 0.6,
+   "bus": "sfx",
+   "synth": "thud"
+  },
+  {
+   "type": "state",
+   "t": 469.34,
+   "key": "black_sedan.occupants",
+   "value": 1
+  },
+  {
+   "type": "sound",
+   "t": 470.34,
+   "id": "car_away",
+   "dur": 8,
+   "volume": 0.7,
+   "bus": "sfx",
+   "file": "car_pass.mp3",
+   "synth": "car"
+  }
+ ],
+ "shots": [
+  {
+   "t": 0,
+   "name": "Totale – Querstraße",
+   "from": [
+    -31.5,
+    1.2,
+    -6.5
+   ],
+   "look": {
+    "actor": "protagonist"
+   },
+   "lens": 24,
+   "to": [
+    -31.0,
+    1.4,
+    -8.5
+   ],
+   "aperture": 0.0006
+  },
+  {
+   "t": 4.2,
+   "name": "Verfolger – Steadicam",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.5,
+     1.6,
+     -3.0
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 28,
+   "shake": 0.7
+  },
+  {
+   "t": 7.4,
+   "name": "Halbnah seitlich – Fahrt",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -2.8,
+     1.3,
+     1.6
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 35,
+   "shake": 0.5
+  },
+  {
+   "t": 12.2,
+   "name": "Totale – Gebäude",
+   "from": [
+    5.5,
+    1.1,
+    -2.5
+   ],
+   "look": {
+    "actor": "protagonist"
+   },
+   "lens": 22,
+   "to": [
+    4.5,
+    1.0,
+    -3.5
+   ],
+   "lookTo": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "aperture": 0.0008
+  },
+  {
+   "t": 16.0,
+   "name": "Nah – Atem holen",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.6,
+     0.0,
+     1.5
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 62,
+   "to": {
+    "rel": "protagonist",
+    "offset": [
+     -0.875,
+     0.0,
+     2.188
+    ],
+    "socket": "head"
+   },
+   "aperture": 0.006
+  },
+  {
+   "t": 17.2,
+   "name": "Halbnah – Ankunft",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     2.2,
+     1.45,
+     2.4
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 40,
+   "to": {
+    "rel": "protagonist",
+    "offset": [
+     1.9,
+     1.45,
+     2.0
+    ]
+   },
+   "aperture": 0.0025
+  },
+  {
+   "t": 17.8,
+   "name": "Totale – Wagen naht",
+   "from": [
+    9.0,
+    0.9,
+    -9.6
+   ],
+   "look": {
+    "actor": "black_sedan",
+    "offset": [
+     0,
+     0.8,
+     0
+    ]
+   },
+   "lens": 35,
+   "lookTo": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "aperture": 0.0012
+  },
+  {
+   "t": 19.95,
+   "name": "Insert – Brief segelt",
+   "from": [
+    3.6,
+    0.32,
+    -9.6
+   ],
+   "look": [
+    2.0,
+    0.9,
+    -5.6
+   ],
+   "lens": 32,
+   "lookTo": "st.letter_land",
+   "aperture": 0.004,
+   "shake": 0.2
+  },
+  {
+   "t": 22.0,
+   "name": "Halbnah – Aufheben",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -1.6,
+     1.1,
+     1.6
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 35,
+   "aperture": 0.003
+  },
+  {
+   "t": 24.1,
+   "name": "Insert – Name auf dem Umschlag",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.15,
+     0.12,
+     -0.12
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 40,
+   "aperture": 0.008
+  },
+  {
+   "t": 27.75,
+   "name": "Nah – Gesicht beim Lesen",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.612,
+     0.035,
+     2.363
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 66,
+   "to": {
+    "rel": "protagonist",
+    "offset": [
+     0.438,
+     0.035,
+     1.75
+    ],
+    "socket": "head"
+   },
+   "aperture": 0.006
+  },
+  {
+   "t": 39.75,
+   "name": "Over-Shoulder – Brief",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.32,
+     0.12,
+     -0.42
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 45,
+   "aperture": 0.008
+  },
+  {
+   "t": 48.75,
+   "name": "Totale – über die Straße",
+   "from": [
+    -5.5,
+    1.5,
+    7.6
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 50,
+   "to": [
+    -4.5,
+    1.5,
+    7.7
+   ],
+   "aperture": 0.0015
+  },
+  {
+   "t": 59.75,
+   "name": "Nah – Gesicht (langsam)",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.525,
+     0.035,
+     2.1
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 75,
+   "to": {
+    "rel": "protagonist",
+    "offset": [
+     -0.438,
+     0.035,
+     1.662
+    ],
+    "socket": "head"
+   },
+   "aperture": 0.007
+  },
+  {
+   "t": 70.26,
+   "name": "Subjektive – Blick zur Ampel",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.12,
+     0.05,
+     -0.1
+    ],
+    "socket": "head"
+   },
+   "look": "st.woman_button",
+   "lens": 62,
+   "aperture": 0.002,
+   "shake": 0.3
+  },
+  {
+   "t": 77.26,
+   "name": "Over-Shoulder – Brief",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.32,
+     0.12,
+     -0.42
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 45,
+   "aperture": 0.008
+  },
+  {
+   "t": 83.18,
+   "name": "Tele – Ampel",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.15,
+     0.08,
+     -0.2
+    ],
+    "socket": "head"
+   },
+   "look": "st.woman_button",
+   "lens": 75,
+   "lookTo": [
+    22.0,
+    1.3,
+    7.4
+   ],
+   "aperture": 0.0025
+  },
+  {
+   "t": 88.58,
+   "name": "Insert – Husky",
+   "from": [
+    24.4,
+    0.55,
+    10.2
+   ],
+   "look": {
+    "actor": "husky",
+    "socket": "head"
+   },
+   "lens": 50,
+   "aperture": 0.006
+  },
+  {
+   "t": 91.38,
+   "name": "Nah – Gesicht",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.612,
+     0.0,
+     2.1
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 75,
+   "aperture": 0.008
+  },
+  {
+   "t": 93.18,
+   "name": "Halbtotale – Frau schaut sich um",
+   "from": [
+    27.5,
+    1.6,
+    10.5
+   ],
+   "look": {
+    "actor": "woman_red_coat",
+    "socket": "head"
+   },
+   "lens": 45,
+   "to": [
+    27.0,
+    1.6,
+    10.2
+   ],
+   "aperture": 0.003
+  },
+  {
+   "t": 94.58,
+   "name": "Totale – Husky reißt sich los",
+   "from": [
+    12.5,
+    1.2,
+    -4.6
+   ],
+   "look": {
+    "actor": "husky"
+   },
+   "lens": 28,
+   "shake": 0.8,
+   "aperture": 0.0012
+  },
+  {
+   "t": 96.88,
+   "name": "Halbnah – Frau rennt",
+   "from": {
+    "rel": "woman_red_coat",
+    "offset": [
+     2.2,
+     1.3,
+     2.2
+    ]
+   },
+   "look": {
+    "actor": "woman_red_coat",
+    "socket": "chest"
+   },
+   "lens": 35,
+   "shake": 0.9
+  },
+  {
+   "t": 98.18,
+   "name": "Nah – Gesicht, Gänsehaut",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.525,
+     0.0,
+     2.012
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 75,
+   "to": {
+    "rel": "protagonist",
+    "offset": [
+     -0.438,
+     0.0,
+     1.662
+    ],
+    "socket": "head"
+   },
+   "aperture": 0.008
+  },
+  {
+   "t": 103.78,
+   "name": "Totale – Straße, Verkehr läuft wieder",
+   "from": [
+    -4.2,
+    3.6,
+    9.8
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "to": [
+    -3.2,
+    3.4,
+    9.6
+   ],
+   "aperture": 0.001
+  },
+  {
+   "t": 109.76,
+   "name": "Nah – Entschluss",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.7,
+     0.0,
+     1.925
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 57,
+   "aperture": 0.006
+  },
+  {
+   "t": 112.66,
+   "name": "Totale – Eingang",
+   "from": [
+    4.6,
+    1.5,
+    -3.6
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 28,
+   "to": [
+    3.6,
+    1.4,
+    -5.6
+   ],
+   "aperture": 0.001
+  },
+  {
+   "t": 115.76,
+   "name": "Draufsicht – Drehkreuz",
+   "from": [
+    2.4,
+    3.2,
+    -19.6
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 26,
+   "aperture": 0.001
+  },
+  {
+   "t": 119.06,
+   "name": "Halbnah – Gruß an den Empfang",
+   "from": [
+    -5.5,
+    1.3,
+    -20.6
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 40,
+   "lookTo": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "aperture": 0.002
+  },
+  {
+   "t": 122.56,
+   "name": "Verfolger",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.45,
+     1.65,
+     -2.6
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 30,
+   "shake": 0.5
+  },
+  {
+   "t": 127.16,
+   "name": "Insert – Rufknopf",
+   "from": [
+    0.25,
+    1.25,
+    -29.4
+   ],
+   "look": [
+    -0.45,
+    1.1,
+    -30.9
+   ],
+   "lens": 60,
+   "aperture": 0.008
+  },
+  {
+   "t": 128.56,
+   "name": "Halbnah – ungeduldig warten",
+   "from": [
+    1.6,
+    1.35,
+    -26.9
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 45,
+   "to": [
+    1.3,
+    1.35,
+    -27.4
+   ],
+   "aperture": 0.003
+  },
+  {
+   "t": 132.16,
+   "name": "Nah – Tür, Spiegelung",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.525,
+     0.0,
+     1.488
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 53,
+   "aperture": 0.006
+  },
+  {
+   "t": 133.56,
+   "name": "Insert – Stockwerksanzeige",
+   "from": [
+    -1.2,
+    2.2,
+    -29.6
+   ],
+   "look": [
+    -1.4,
+    2.62,
+    -30.9
+   ],
+   "lens": 70,
+   "aperture": 0.008
+  },
+  {
+   "t": 134.56,
+   "name": "Totale – Aufzugstür öffnet",
+   "from": [
+    -1.4,
+    1.5,
+    -25.0
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 32,
+   "aperture": 0.0015
+  },
+  {
+   "t": 137.66,
+   "name": "Aufzug – Draufsicht",
+   "from": {
+    "rel": "elevator",
+    "offset": [
+     0.85,
+     2.35,
+     1.0
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 18,
+   "aperture": 0.0008
+  },
+  {
+   "t": 140.86,
+   "name": "Insert – Schnürsenkel",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.75,
+     0.75,
+     1.0
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "root",
+    "offset": [
+     0.12,
+     0.1,
+     0.32
+    ]
+   },
+   "lens": 30,
+   "aperture": 0.004
+  },
+  {
+   "t": 143.26,
+   "name": "Aufzug – Nah",
+   "from": {
+    "rel": "elevator",
+    "offset": [
+     -0.75,
+     1.75,
+     0.9
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 28,
+   "aperture": 0.002
+  },
+  {
+   "t": 145.26,
+   "name": "Aufzug öffnet – Totale 8. Stock",
+   "from": [
+    -1.4,
+    30.3,
+    -26.4
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 26,
+   "aperture": 0.001
+  },
+  {
+   "t": 148.16,
+   "name": "Insert – Schnürsenkel",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.7,
+     0.6,
+     1.3
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "root",
+    "offset": [
+     0.1,
+     0.05,
+     0.25
+    ]
+   },
+   "lens": 35,
+   "aperture": 0.005
+  },
+  {
+   "t": 150.16,
+   "name": "Überwachungskamera-Blick",
+   "from": [
+    -4.5,
+    31.55,
+    -30.5
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 20,
+   "aperture": 0.0005,
+   "shake": 0.05
+  },
+  {
+   "t": 152.96,
+   "name": "Nah – Lesen im toten Winkel",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.612,
+     0.035,
+     2.1
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 62,
+   "to": {
+    "rel": "protagonist",
+    "offset": [
+     -0.438,
+     0.035,
+     1.662
+    ],
+    "socket": "head"
+   },
+   "aperture": 0.006
+  },
+  {
+   "t": 162.46,
+   "name": "Over-Shoulder – Brief",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.3,
+     0.12,
+     -0.42
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 42,
+   "aperture": 0.008
+  },
+  {
+   "t": 171.46,
+   "name": "Halbtotale – Kamera im Hintergrund",
+   "from": [
+    0.2,
+    30.1,
+    -27.6
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 35,
+   "lookTo": [
+    -4.5,
+    31.6,
+    -30.5
+   ],
+   "aperture": 0.0015
+  },
+  {
+   "t": 178.96,
+   "name": "Nah – Gesicht, Entschlossenheit",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.525,
+     0.0,
+     1.75
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 75,
+   "to": {
+    "rel": "protagonist",
+    "offset": [
+     0.438,
+     0.0,
+     1.488
+    ],
+    "socket": "head"
+   },
+   "aperture": 0.008
+  },
+  {
+   "t": 186.9,
+   "name": "Insert – Armbanduhr 10:28",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.0,
+     -0.05,
+     0.25
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handL"
+   },
+   "lens": 50,
+   "aperture": 0.01
+  },
+  {
+   "t": 187.8,
+   "name": "Verfolger – zur Glastür",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.4,
+     1.6,
+     -2.4
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 28,
+   "shake": 0.4
+  },
+  {
+   "t": 190.4,
+   "name": "Halbnah – Rebecca",
+   "from": [
+    -3.7,
+    30.150000000000002,
+    -22.4
+   ],
+   "look": {
+    "actor": "rebecca",
+    "socket": "head"
+   },
+   "lens": 45,
+   "aperture": 0.003
+  },
+  {
+   "t": 196.38,
+   "name": "Over-Shoulder – Rebecca",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.3,
+     0.07,
+     -0.55
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "rebecca",
+    "socket": "head"
+   },
+   "lens": 50,
+   "aperture": 0.004
+  },
+  {
+   "t": 198.42,
+   "name": "Gegenschuss – Ich",
+   "from": {
+    "rel": "rebecca",
+    "offset": [
+     -0.25,
+     0.05,
+     -0.6
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 55,
+   "aperture": 0.004
+  },
+  {
+   "t": 202.05,
+   "name": "Nah – Unsicherheit",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.525,
+     0.0,
+     1.75
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 70,
+   "aperture": 0.008
+  },
+  {
+   "t": 203.73,
+   "name": "Over-Shoulder – Rebecca",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.3,
+     0.07,
+     -0.55
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "rebecca",
+    "socket": "head"
+   },
+   "lens": 50,
+   "aperture": 0.004
+  },
+  {
+   "t": 205.13,
+   "name": "Halbtotale – Korridor",
+   "from": [
+    5.2,
+    30.3,
+    -24.0
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "aperture": 0.0015
+  },
+  {
+   "t": 208.63,
+   "name": "Insert – Uhr 10:29",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.0,
+     -0.05,
+     0.25
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handL"
+   },
+   "lens": 50,
+   "aperture": 0.01
+  },
+  {
+   "t": 209.63,
+   "name": "Halbnah – schneller",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     1.6,
+     1.35,
+     2.0
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 32,
+   "shake": 0.6
+  },
+  {
+   "t": 211.38,
+   "name": "Totale – Zusammenstoß",
+   "from": [
+    2.3,
+    30.5,
+    -23.6
+   ],
+   "look": [
+    5.3,
+    30.0,
+    -26.0
+   ],
+   "lens": 26,
+   "shake": 0.9,
+   "aperture": 0.0012
+  },
+  {
+   "t": 213.03,
+   "name": "Over-Shoulder – Robert",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.3,
+     0.07,
+     -0.55
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "robert",
+    "socket": "head"
+   },
+   "lens": 45,
+   "aperture": 0.004
+  },
+  {
+   "t": 222.66,
+   "name": "Nah – Schweiß",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.525,
+     0.0,
+     1.488
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 79,
+   "aperture": 0.01
+  },
+  {
+   "t": 227.36,
+   "name": "Gegenschuss – Ausrede",
+   "from": {
+    "rel": "robert",
+    "offset": [
+     0.3,
+     0.07,
+     -0.6
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 50,
+   "aperture": 0.004
+  },
+  {
+   "t": 229.6,
+   "name": "Totale – Game Space",
+   "from": [
+    3.9,
+    31.2,
+    -13.2
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 22,
+   "to": [
+    4.4,
+    31.1,
+    -13.6
+   ],
+   "aperture": 0.0008
+  },
+  {
+   "t": 233.6,
+   "name": "Kamera-Blick – Küche",
+   "from": [
+    15.6,
+    31.6,
+    -11.9
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "aperture": 0.0008,
+   "shake": 0.05
+  },
+  {
+   "t": 236.0,
+   "name": "Insert – Ellenbogen an der Maschine",
+   "from": [
+    14.6,
+    30.150000000000002,
+    -25.6
+   ],
+   "look": [
+    15.4,
+    30.05,
+    -24.6
+   ],
+   "lens": 50,
+   "aperture": 0.008
+  },
+  {
+   "t": 238.3,
+   "name": "Halbnah – Tassenregal",
+   "from": [
+    13.0,
+    30.400000000000002,
+    -22.0
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 45,
+   "aperture": 0.004
+  },
+  {
+   "t": 240.8,
+   "name": "Insert – Tasse in die Spüle",
+   "from": [
+    14.4,
+    30.3,
+    -20.1
+   ],
+   "look": [
+    15.55,
+    29.75,
+    -21.05
+   ],
+   "lens": 55,
+   "aperture": 0.01
+  },
+  {
+   "t": 245.5,
+   "name": "Halbnah – Glas füllen",
+   "from": [
+    13.4,
+    30.3,
+    -19.5
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 40,
+   "aperture": 0.003
+  },
+  {
+   "t": 250.24,
+   "name": "Nah – verschmitztes Lächeln",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.438,
+     0.035,
+     1.662
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 70,
+   "aperture": 0.008
+  },
+  {
+   "t": 251.9,
+   "name": "Kamera-Blick – Korridor",
+   "from": [
+    3.9,
+    31.6,
+    -26.6
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "aperture": 0.0008,
+   "shake": 0.05
+  },
+  {
+   "t": 257.1,
+   "name": "Tief – Robben an der Wand",
+   "from": [
+    8.4,
+    29.150000000000002,
+    -25.0
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 24,
+   "lookTo": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "aperture": 0.002
+  },
+  {
+   "t": 262.4,
+   "name": "Insert – Uhr 10:29:56",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.05,
+     0.0,
+     0.25
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handL"
+   },
+   "lens": 50,
+   "aperture": 0.01
+  },
+  {
+   "t": 264.3,
+   "name": "Nah – Atem kontrollieren",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.263,
+     0.088,
+     1.4
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 62,
+   "aperture": 0.008,
+   "shake": 0.25
+  },
+  {
+   "t": 270.04,
+   "name": "Insert – Türgriff",
+   "from": [
+    11.6,
+    29.900000000000002,
+    -26.4
+   ],
+   "look": [
+    12.3,
+    29.82,
+    -27.0
+   ],
+   "lens": 70,
+   "aperture": 0.01
+  },
+  {
+   "t": 272.24,
+   "name": "Halbnah – Chef tritt heraus",
+   "from": [
+    9.2,
+    29.5,
+    -25.6
+   ],
+   "look": {
+    "actor": "ceo",
+    "socket": "head"
+   },
+   "lens": 32,
+   "aperture": 0.002
+  },
+  {
+   "t": 273.54,
+   "name": "Totale – Durchhuschen",
+   "from": [
+    10.0,
+    30.8,
+    -22.4
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 28,
+   "shake": 0.4,
+   "aperture": 0.0012
+  },
+  {
+   "t": 275.44,
+   "name": "Halbnah – Hosentasche",
+   "from": [
+    11.0,
+    30.3,
+    -30.5
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 35,
+   "aperture": 0.003
+  },
+  {
+   "t": 279.04,
+   "name": "Totale – CEO-Büro",
+   "from": [
+    15.3,
+    31.400000000000002,
+    -39.8
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 22,
+   "aperture": 0.0008
+  },
+  {
+   "t": 282.84,
+   "name": "Over-Shoulder – Bildschirm",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.35,
+     0.18,
+     -0.45
+    ],
+    "socket": "head"
+   },
+   "look": "screen_ceo",
+   "lens": 35,
+   "aperture": 0.004
+  },
+  {
+   "t": 289.76,
+   "name": "Insert – Bildschirm",
+   "from": [
+    13.6,
+    30.0,
+    -35.75
+   ],
+   "look": "screen_ceo",
+   "lens": 40,
+   "aperture": 0.006
+  },
+  {
+   "t": 291.91,
+   "name": "Nah – Verzweiflung (Bildschirmlicht)",
+   "from": [
+    12.55,
+    30.1,
+    -35.2
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 50,
+   "aperture": 0.008
+  },
+  {
+   "t": 299.09,
+   "name": "Insert – Bildschirm Mail",
+   "from": [
+    13.6,
+    30.0,
+    -35.75
+   ],
+   "look": "screen_ceo",
+   "lens": 40,
+   "aperture": 0.006
+  },
+  {
+   "t": 303.47,
+   "name": "Insert – schwitzige Finger",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.35,
+     -0.2,
+     0.25
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 53,
+   "aperture": 0.012
+  },
+  {
+   "t": 310.37,
+   "name": "Insert – Uhr am Bildschirmrand",
+   "from": [
+    13.85,
+    29.85,
+    -35.6
+   ],
+   "look": [
+    13.85,
+    29.73,
+    -35.15
+   ],
+   "lens": 70,
+   "aperture": 0.01
+  },
+  {
+   "t": 313.43,
+   "name": "Over-Shoulder – Morse-Seite",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.35,
+     0.18,
+     -0.45
+    ],
+    "socket": "head"
+   },
+   "look": "screen_ceo",
+   "lens": 35,
+   "aperture": 0.004
+  },
+  {
+   "t": 323.11,
+   "name": "Nah – Handy",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.3,
+     -0.05,
+     0.55
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 50,
+   "aperture": 0.008
+  },
+  {
+   "t": 334.08,
+   "name": "Insert – Bildschirm Morse-Suche",
+   "from": [
+    13.6,
+    30.0,
+    -35.75
+   ],
+   "look": "screen_ceo",
+   "lens": 45,
+   "aperture": 0.006
+  },
+  {
+   "t": 337.03,
+   "name": "Nah – TREFFER",
+   "from": [
+    14.75,
+    30.1,
+    -35.25
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 55,
+   "aperture": 0.008
+  },
+  {
+   "t": 339.59,
+   "name": "Halbtotale – Kopieren & Foto",
+   "from": [
+    11.6,
+    30.5,
+    -37.2
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "aperture": 0.002
+  },
+  {
+   "t": 348.9,
+   "name": "Totale – zur Tür schleichen",
+   "from": [
+    15.4,
+    31.3,
+    -39.5
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 24,
+   "aperture": 0.001
+  },
+  {
+   "t": 353.5,
+   "name": "Nah – an der Wand",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.0,
+     0.0,
+     0.9
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 55,
+   "aperture": 0.008
+  },
+  {
+   "t": 354.9,
+   "name": "Nah – Chef kommt herein",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.15,
+     0.05,
+     0.45
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "ceo",
+    "socket": "head"
+   },
+   "lens": 35,
+   "aperture": 0.004
+  },
+  {
+   "t": 356.5,
+   "name": "Insert – Kaffee auf dem Teppich",
+   "from": [
+    12.0,
+    29.400000000000002,
+    -30.3
+   ],
+   "look": "f8.spill",
+   "lens": 35,
+   "aperture": 0.006,
+   "shake": 0.4
+  },
+  {
+   "t": 357.3,
+   "name": "Halbnah – Wutausbruch",
+   "from": [
+    14.6,
+    30.3,
+    -31.6
+   ],
+   "look": {
+    "actor": "ceo",
+    "socket": "head"
+   },
+   "lens": 40,
+   "shake": 0.5,
+   "aperture": 0.003
+  },
+  {
+   "t": 365.78,
+   "name": "Nah – Flucht?",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.175,
+     0.0,
+     1.4
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 62,
+   "aperture": 0.008,
+   "shake": 0.3
+  },
+  {
+   "t": 367.32,
+   "name": "Totale – Rausschleichen",
+   "from": [
+    8.4,
+    30.6,
+    -22.8
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 26,
+   "shake": 0.4,
+   "aperture": 0.0012
+  },
+  {
+   "t": 374.94,
+   "name": "Tief – hinter dem Tresen",
+   "from": [
+    11.0,
+    29.35,
+    -19.6
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 28,
+   "aperture": 0.002
+  },
+  {
+   "t": 379.35,
+   "name": "Halbnah – Chef kommt näher",
+   "from": [
+    15.4,
+    30.2,
+    -18.5
+   ],
+   "look": {
+    "actor": "ceo",
+    "socket": "head"
+   },
+   "lens": 40,
+   "aperture": 0.003,
+   "shake": 0.3
+  },
+  {
+   "t": 383.16,
+   "name": "Nah – in der Klemme",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.175,
+     0.088,
+     1.225
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 53,
+   "aperture": 0.01,
+   "shake": 0.3
+  },
+  {
+   "t": 388.59,
+   "name": "Top-Shot – Tresen",
+   "from": [
+    12.9,
+    31.7,
+    -21.4
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 24,
+   "aperture": 0.0015
+  },
+  {
+   "t": 389.69,
+   "name": "Insert – Schranktür",
+   "from": [
+    11.6,
+    29.400000000000002,
+    -20.4
+   ],
+   "look": [
+    12.6,
+    29.25,
+    -21.3
+   ],
+   "lens": 40,
+   "aperture": 0.008
+  },
+  {
+   "t": 395.85,
+   "name": "Nah – aufgegeben",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.175,
+     0.0,
+     1.312
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 66,
+   "aperture": 0.01
+  },
+  {
+   "t": 395.95,
+   "name": "Halbnah – Rebecca im Gang",
+   "from": [
+    5.2,
+    30.25,
+    -23.6
+   ],
+   "look": {
+    "actor": "rebecca",
+    "socket": "head"
+   },
+   "lens": 40,
+   "aperture": 0.003
+  },
+  {
+   "t": 398.8,
+   "name": "Nah – „du Engel“",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.175,
+     0.088,
+     1.312
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 62,
+   "aperture": 0.01
+  },
+  {
+   "t": 404.56,
+   "name": "Halbtotale – Rebecca & Chef",
+   "from": [
+    9.8,
+    30.400000000000002,
+    -20.6
+   ],
+   "look": {
+    "actor": "ceo",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "lookTo": {
+    "actor": "rebecca",
+    "socket": "chest"
+   },
+   "aperture": 0.0015
+  },
+  {
+   "t": 412.43,
+   "name": "Totale – Rückzug",
+   "from": [
+    15.5,
+    31.400000000000002,
+    -12.2
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 24,
+   "aperture": 0.0008
+  },
+  {
+   "t": 413.4,
+   "name": "Verfolger – unauffällig",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.4,
+     1.3,
+     -2.4
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 30,
+   "shake": 0.5
+  },
+  {
+   "t": 417.4,
+   "name": "Tief – hinter dem Empfang",
+   "from": [
+    -7.1,
+    29.35,
+    -22.7
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 28,
+   "aperture": 0.002
+  },
+  {
+   "t": 423.5,
+   "name": "Halbnah – Rebecca läuft vorbei",
+   "from": [
+    -5.2,
+    29.5,
+    -22.0
+   ],
+   "look": {
+    "actor": "rebecca",
+    "socket": "head"
+   },
+   "lens": 30,
+   "aperture": 0.002
+  },
+  {
+   "t": 426.1,
+   "name": "Totale – zum Aufzug",
+   "from": [
+    -4.2,
+    31.2,
+    -22.5
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 24,
+   "aperture": 0.001
+  },
+  {
+   "t": 431.1,
+   "name": "Aufzug – Türen schließen",
+   "from": [
+    -1.4,
+    30.25,
+    -27.2
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 40,
+   "aperture": 0.002
+  },
+  {
+   "t": 433.9,
+   "name": "Aufzug – Durchatmen",
+   "from": {
+    "rel": "elevator",
+    "offset": [
+     0.7,
+     1.7,
+     0.95
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 28,
+   "aperture": 0.002
+  },
+  {
+   "t": 439.9,
+   "name": "Lobby – Aufzug öffnet",
+   "from": [
+    -1.4,
+    1.45,
+    -24.5
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 32,
+   "aperture": 0.0015
+  },
+  {
+   "t": 444.5,
+   "name": "Verfolger – durch die Lobby",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     0.4,
+     1.6,
+     -2.6
+    ]
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 28,
+   "shake": 0.5
+  },
+  {
+   "t": 449.1,
+   "name": "Gegenlicht – Eingang von außen",
+   "from": [
+    3.4,
+    1.3,
+    -6.2
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 35,
+   "aperture": 0.0015
+  },
+  {
+   "t": 451.7,
+   "name": "Totale – Mann & Limousine",
+   "from": [
+    2.0,
+    1.25,
+    -1.8
+   ],
+   "look": {
+    "actor": "man_black_suit",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "lookTo": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "aperture": 0.001
+  },
+  {
+   "t": 456.49,
+   "name": "Over-Shoulder – Mann",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.32,
+     0.07,
+     -0.6
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "man_black_suit",
+    "socket": "head"
+   },
+   "lens": 50,
+   "aperture": 0.004
+  },
+  {
+   "t": 457.39,
+   "name": "Insert – Übergabe des Sticks",
+   "from": [
+    7.4,
+    1.25,
+    -10.4
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "lens": 60,
+   "aperture": 0.01
+  },
+  {
+   "t": 458.19,
+   "name": "Gegenschuss – Ich",
+   "from": {
+    "rel": "man_black_suit",
+    "offset": [
+     0.32,
+     0.07,
+     -0.6
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 50,
+   "aperture": 0.004
+  },
+  {
+   "t": 460.63,
+   "name": "Nah – Sonnenbrille",
+   "from": {
+    "rel": "man_black_suit",
+    "offset": [
+     0.263,
+     0.035,
+     1.575
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "man_black_suit",
+    "socket": "head"
+   },
+   "lens": 75,
+   "aperture": 0.008
+  },
+  {
+   "t": 462.23,
+   "name": "Nah – mein Blick",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.263,
+     0.035,
+     1.575
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "protagonist",
+    "socket": "head"
+   },
+   "lens": 75,
+   "aperture": 0.008
+  },
+  {
+   "t": 463.64,
+   "name": "Over-Shoulder – letzter Satz",
+   "from": {
+    "rel": "protagonist",
+    "offset": [
+     -0.32,
+     0.07,
+     -0.6
+    ],
+    "socket": "head"
+   },
+   "look": {
+    "actor": "man_black_suit",
+    "socket": "head"
+   },
+   "lens": 55,
+   "aperture": 0.004
+  },
+  {
+   "t": 465.14,
+   "name": "Halbtotale – er geht",
+   "from": [
+    4.6,
+    1.5,
+    -11.6
+   ],
+   "look": {
+    "actor": "man_black_suit",
+    "socket": "chest"
+   },
+   "lens": 35,
+   "aperture": 0.0015
+  },
+  {
+   "t": 470.74,
+   "name": "Totale – Abfahrt",
+   "from": [
+    -12.0,
+    1.3,
+    8.2
+   ],
+   "look": {
+    "actor": "black_sedan",
+    "offset": [
+     0,
+     0.8,
+     0
+    ]
+   },
+   "lens": 35,
+   "lookTo": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "aperture": 0.001
+  },
+  {
+   "t": 473.74,
+   "name": "Schlussbild – Kranfahrt zum 8. Stock",
+   "from": [
+    7.0,
+    1.4,
+    7.4
+   ],
+   "look": {
+    "actor": "protagonist",
+    "socket": "chest"
+   },
+   "lens": 30,
+   "to": [
+    4.0,
+    15.0,
+    9.0
+   ],
+   "lookTo": [
+    0.0,
+    30.0,
+    -11.0
+   ],
+   "lensTo": 24,
+   "aperture": 0.0008,
+   "ease": "ease"
+  }
+ ],
+ "inserts": [
+  {
+   "t": 24.1,
+   "dur": 2.6,
+   "target": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "name": "Schnittbild – Umschlag",
+   "lens": 55
+  },
+  {
+   "t": 70.46,
+   "dur": 3.0,
+   "target": "st.woman_button",
+   "name": "Schnittbild – Ampel",
+   "lens": 85
+  },
+  {
+   "t": 94.68,
+   "dur": 2.6,
+   "target": {
+    "actor": "husky",
+    "socket": "head"
+   },
+   "name": "Schnittbild – Husky",
+   "lens": 50
+  },
+  {
+   "t": 187.0,
+   "dur": 1.8,
+   "target": {
+    "actor": "protagonist",
+    "socket": "handL"
+   },
+   "name": "Schnittbild – Uhr",
+   "lens": 50
+  },
+  {
+   "t": 208.63,
+   "dur": 1.5,
+   "target": {
+    "actor": "protagonist",
+    "socket": "handL"
+   },
+   "name": "Schnittbild – Uhr",
+   "lens": 50
+  },
+  {
+   "t": 236.0,
+   "dur": 1.8,
+   "target": "kitchen_machine",
+   "name": "Schnittbild – Kaffeemaschine",
+   "lens": 60
+  },
+  {
+   "t": 289.96,
+   "dur": 3.2,
+   "target": "screen_ceo",
+   "name": "Schnittbild – Bildschirm",
+   "lens": 45
+  },
+  {
+   "t": 336.53,
+   "dur": 2.0,
+   "target": "screen_ceo",
+   "name": "Schnittbild – TREFFER",
+   "lens": 45
+  },
+  {
+   "t": 356.5,
+   "dur": 2.0,
+   "target": "f8.spill",
+   "name": "Schnittbild – Kaffee",
+   "lens": 35
+  },
+  {
+   "t": 457.29,
+   "dur": 2.2,
+   "target": {
+    "actor": "protagonist",
+    "socket": "handR"
+   },
+   "name": "Schnittbild – Stick",
+   "lens": 60
+  }
+ ]
+}

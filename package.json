@@ -1,0 +1,21 @@
+{
+  "name": "gefangen-im-gefuege-der-zeit",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "3D-Story-Player für die Kurzgeschichte „Gefangen im Gefüge der Zeit“",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/three": "0.187.0",
+    "typescript": "5.9.3",
+    "vite": "7.3.8"
+  }
+}
